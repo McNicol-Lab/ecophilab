@@ -1,11 +1,19 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
-    <loc>https://mcnicol-lab.github.io/ecophilab/about.html</loc>
-    <lastmod>2025-07-15T23:07:01.678Z</lastmod>
+    <loc>https://mcnicol-lab.github.io/ecophilab/people.html</loc>
+    <lastmod>2025-07-16T00:13:52.497Z</lastmod>
   </url>
   <url>
-    <loc>https://mcnicol-lab.github.io/ecophilab/index.html</loc>
-    <lastmod>2025-07-16T00:10:13.348Z</lastmod>
+    <loc>https://mcnicol-lab.github.io/ecophilab/contact.html</loc>
+    <lastmod>2025-07-16T00:14:02.587Z</lastmod>
+  </url>
+  <url>
+    <loc>https://mcnicol-lab.github.io/ecophilab/projects.html</loc>
+    <lastmod>2025-07-16T00:13:37.054Z</lastmod>
+  </url>
+  <url>
+    <loc>https://mcnicol-lab.github.io/ecophilab/about.html</loc>
+    <lastmod>2025-07-15T23:07:01.678Z</lastmod>
   </url>
 </urlset>
