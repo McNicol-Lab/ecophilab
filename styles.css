@@ -1,10 +1,12 @@
 /* css styles */
 
 .hero-banner {
-  background-image: url("images/logo/centered-logo-greek.png");
+  background-image: url("images/logo/centered-logo-greek.png"); 
   background-size: cover;
   background-position: center;
-  text-align: center;
-  padding: 100px 20px;
   color: white;
+  text-align: center;
+  padding: 120px 20px;
+  margin-bottom: 40px;
+  border-radius: 8px;
 }
