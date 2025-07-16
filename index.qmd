@@ -1,9 +1,3 @@
 ---
 title: "ecoφlab"
 ---
-
-```{<div class="hero-banner">}
-  <h1>ecoφlab</h1>
-  <p>Advancing climate, conservation, and human health together</p>
-</div>
-```
