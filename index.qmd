@@ -1,5 +1,1 @@
----
-title: "ecoφlab"
----
-
 ![](images/logo/centered-logo-greek.png){fig-align="center"}

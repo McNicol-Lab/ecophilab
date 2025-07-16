@@ -18,5 +18,7 @@ website:
 
 format:
   html:
-    theme: cosmo
+    theme:
+      light: cosmo
     css: styles.css
+    toc: false
