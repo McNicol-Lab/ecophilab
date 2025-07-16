@@ -2,10 +2,8 @@
 title: "ecoφlab"
 ---
 
-This is a Quarto website.
-
-To learn more about Quarto websites visit <https://quarto.org/docs/websites>.
-
-```{r}
-1 + 1
+```{<div class="hero-banner">}
+  <h1>ecoφlab</h1>
+  <p>Advancing climate, conservation, and human health together</p>
+</div>
 ```

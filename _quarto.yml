@@ -5,6 +5,7 @@ website:
   title: "ecoφlab"
   site-url: "https://mcnicol-lab.github.io/ecophilab"
   navbar:
+    logo: images/logo/main-logo.png
     left:
       - text: Home
         href: index.qmd
