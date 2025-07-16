@@ -1,12 +1,30 @@
 /* css styles */
 
-.hero-banner {
-  background-image: url("images/logo/centered-logo-greek.png"); 
-  background-size: cover;
-  background-position: center;
-  color: white;
-  text-align: center;
-  padding: 120px 20px;
-  margin-bottom: 40px;
-  border-radius: 8px;
+:root {
+  /* Primary Colors */
+  --bs-primary: #0c2220;      /* Deep green */
+  --bs-secondary: #c08a34;    /* Golden ochre */
+
+  /* Optional Bootstrap overrides */
+  --bs-success: #994215;      /* Deep rust (complementary) */
+  --bs-info: #f4eed8;         /* Soft cream */
+  --bs-warning: #d5b267;      /* Warm tan */
+
+  /* Fonts */
+  --bs-font-sans-serif: "Calibri", sans-serif;
+  --bs-heading-font-family: "Trebuchet MS", sans-serif;
+}
+
+h1, h2, h3, h4, h5, h6 {
+  font-family: "Trebuchet MS", sans-serif;
+}
+
+.navbar {
+  background-color: #0c2220;
+}
+
+.navbar-brand,
+.nav-link,
+.navbar-text {
+  color: #f4eed8 !important;
 }
