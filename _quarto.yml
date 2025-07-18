@@ -2,9 +2,11 @@ project:
   type: website
 
 website:
-  title: "ecoφlab"
   site-url: "https://mcnicol-lab.github.io/ecophilab"
   navbar:
+  page-footer:
+  left: "© 2025 ecoφlab at UIC"
+  right: "Design by J. Nathaly"
     logo: images/logo/main-logo-notext.png
     left:
       - text: Home
