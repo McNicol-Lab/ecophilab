@@ -28,3 +28,10 @@ h1, h2, h3, h4, h5, h6 {
 .navbar-text {
   color: #f4eed8 !important;
 }
+
+footer {
+  background-color: #f4eed8; /* soft cream */
+  color: #0c2220;            /* dark green */
+  font-family: "Calibri", sans-serif;
+  padding: 1rem 0;
+}

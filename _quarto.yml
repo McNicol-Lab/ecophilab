@@ -4,9 +4,6 @@ project:
 website:
   site-url: "https://mcnicol-lab.github.io/ecophilab"
   navbar:
-  page-footer:
-  left: "© 2025 ecoφlab at UIC"
-  right: "Design by J. Nathaly"
     logo: images/logo/main-logo-notext.png
     left:
       - text: Home
@@ -17,10 +14,15 @@ website:
         href: people.qmd
       - text: Contact
         href: contact.qmd
+        
+  page-footer:
+    left: "© 2025 ecoφlab at UIC"
+    right: "Design by J. Nathaly"
 
 format:
   html:
     theme:
       light: cosmo
+      dark: darkly
     css: styles.css
     toc: false
