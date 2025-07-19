@@ -10,26 +10,50 @@ And perhaps most importantly...
 
 -   *how can we advance ecosystem and planetary health together?*
 
+# Our Community
+
+The ecoϕlab is composed of a small, diverse, and growing group of student and professional geo-ecologists who use soil biogeochemistry, ecosystem ecology, and eco-informatics to collect, analyze, model, and interpret environmental data, and to communicate ecosystem and climate insights to a wide range of audiences. We love spaceship Earth and want to understand it.
+
+Our work is facilitated and greatly enriched by building equitable relationships with community partners established on mutual respect, trust, alignment, and reciprocity. Our current partners include:
+
+-   Greater Chatham Initiative, Chicago, IL 
+
+-   Friends of Nachusa Grasslands, Dixon, IL  
+
+-   Urban Growers Collective, Chicago, IL
+
 # Our Name
+
+![](images/logo/boxed-logo-alpha.png){fig-align="left"}
 
 ## eco for ecosystem
 
-Terrestrial ecosystems are our main characters, including wetlands, rainforests, and prairies at field scales. We aim to understand them holistically, from bedrock-to-canopy, using ecosystem concepts of composition, structure, and function. We describe cycles, identify feedback loops, and consider how ecosystem behavior changes across scales via emergence and self-organization.
+Terrestrial ecosystems are our main characters, including wetlands, rainforests, and prairies. We aim to understand them holistically, from bedrock-to-canopy, using ecosystem concepts of composition, structure, and function. We describe cycles, identify feedback loops, and consider how ecosystem behavior changes across scales via emergence and self-organization.
 
 ## p for planetary
 
-Earth's living organisms inhabit ecosystems small relative to our planet, yet, in the words of Arthur Tansley \[*On Ecosystems\]*, " the systems we isolate are not only included as part of larger ones, but they also overlap, interlock, and interact with one another."
-
-Though our work often begins with ecosystems we can readily isolate, our motivations and discoveries reflect a shared concern for planetary habitability.
+Earth's living organisms inhabit ecosystems small relative to our planet, yet, in the words of Arthur Tansley \[*On Ecosystems\]*, "the systems we isolate are not only included as part of larger ones, but they also overlap, interlock, and interact with one another." Though our work often begins with ecosystems we can readily isolate, our motivations and discoveries reflect a shared concern for planetary habitability.
 
 ## h for **health**
 
-Health lacks formal definition and consistent metrics across ecosystem to planetary scales, and yet the benefits of good health are so universally recognized and aspired to that we believe health warrants fuller characterization. With our strengths in quantifying, explaining, and predicting ecosystem function we position ourselves to contribute to future research to improve individual and collective health.
+Health lacks formal definition and consistent metrics across ecosystem to planetary scales, and yet the benefits of good health are so universally recognized and aspired to that we believe health warrants fuller characterization. With our strengths in quantifying, explaining, and predicting ecosystem function we position ourselves to contribute to future research to improve our individual and collective health.
 
 ## i for **integration** ∫
 
-Finding the integral of a mathematical function allows us to calculate **stocks, fluxes, and other quantities across space and time**. Metaphorically, it could also be interpreted as a request for personal or professional development, implying a desire to become more integrated or well-rounded in some aspect of life. Socially, to integrate into a group or activity - reflecting our lab's commitment to inclusion.
+Finding the integral of a mathematical function allows us to calculate stocks, fluxes, and other quantities across space and time. Metaphorically, it could also be interpreted as a request for personal or professional development, implying a desire to become more integrated or well-rounded in some aspect of life. Socially, to integrate into a group or activity - reflecting our lab's commitment to inclusion.
 
 ## φ for **phi**
 
 Phi ("fye", not "fee") is the 21st letter of the Greek alphabet, and is used in mathematics, science, and philosophy. In mathematics, phi (φ) often represents the golden ratio, an irrational number approximately equal to 1.618. In philosophy, phi can symbolize concepts such as harmony, balance, or perfection. As ecophiles, we try to balance empirical observation and experimentation with the *logos* evident in nature.
+
+# Our Approaches
+
+We take a multi-disciplinary approach and draw on the fields of biogeochemistry, biometeorology, and ecosystem ecology. 
+
+In the field, we measure climate change interactions in temperate zone wetland-upland interfaces using measurements and models of ecosystem greenhouse gas and energy exchange. 
+
+In the lab, we manipulate soil environments to identify controls on carbon pools and microbial processes. 
+
+Behind our desks, we use reproducible data science workflows to collaborate on the wrangling, visualization, and statistical analysis of our field and lab data, often merging our data with larger network data available online. 
+
+We work together to improve our writing ability - a lifelong journey - to ensure we can communicate the insights we gain from data to all kinds of audiences.

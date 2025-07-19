@@ -8,14 +8,14 @@ website:
     left:
       - text: Home
         href: home.qmd
-      - text: About
-        href: about.qmd
       - text: Projects
         href: projects.qmd
       - text: People
         href: people.qmd
       - text: Contact
         href: contact.qmd
+      - text: About
+        href: about.qmd
         
   page-footer:
     left: "© 2025 ecoφlab at UIC"
