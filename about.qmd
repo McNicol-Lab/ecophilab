@@ -1,3 +1,8 @@
+---
+title: "About"
+editor: visual
+---
+
 ![](images/logo/name-only.png){fig-align="left"}
 
 # Our Name 🤔

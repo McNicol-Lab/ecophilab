@@ -1,4 +1,10 @@
 ---
-title: "projects"
+title: "Projects"
 editor: visual
 ---
+
+## Predictive Modeling for Natural Methane
+
+## Coastal Temperate Rainforests through Time
+
+## Native and Urban Chicagoland Ecosystems
