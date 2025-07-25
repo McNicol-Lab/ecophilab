@@ -7,7 +7,7 @@ website:
     logo: images/logo/main-logo-notext.png
     left:
       - text: Home
-        href: home.qmd
+        href: index.qmd
       - text: Projects
         href: projects.qmd
       - text: People

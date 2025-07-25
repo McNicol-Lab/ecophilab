@@ -7,4 +7,4 @@ editor: visual
 
 ## Coastal Temperate Rainforests through Time
 
-## Native and Urban Chicagoland Ecosystems
+## Native and Urban Chicagoland
