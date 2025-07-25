@@ -3,8 +3,8 @@ title: "Projects"
 editor: visual
 ---
 
-## Predictive Modeling for Natural Methane
+## AI for Natural Methane
 
-## Coastal Temperate Rainforests through Time
+## Temperate Rainforest Geoecology
 
 ## Native and Urban Chicagoland
