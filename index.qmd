@@ -1,1 +1,5 @@
+---
+editor: visual
+---
+
 ![](images/logo/centered-logo-greek.png){fig-align="center"}
