@@ -3,7 +3,9 @@ title: "People"
 editor: visual
 ---
 
-## Principal Investigator - Prof. Gavin McNicol
+## Principal Investigator
+
+### Prof. Gavin McNicol
 
 ::: {.grid}
 ::: {.g-col-6}
@@ -14,4 +16,28 @@ Hello! Thanks for visiting the ecoϕlab website. My interest in atmosphere-biosp
 :::
 :::
 
+## Postdoctoral Research Associates
 
+### Dr. Jessica Murray
+
+
+## Phd Candidates
+
+### Junior Jules Francois
+
+### Michael Yonker
+
+### Aaron MacDonald
+
+## Undergraduate Assistants
+
+### Dylan Janowski
+
+::: {.grid}
+::: {.g-col-6}
+![Gavin's Photo](images/headshots/dylan.png)
+:::
+::: {.g-col-6}
+My name is Dylan Janowski, and I am an undergraduate student studying Earth and Environmental Sciences at UIC. I have experience in policy, education, lab work, and more. I enjoy using my skills to advance environmentally sound projects and legislation. In my free time, I'm an avid rock climber.
+:::
+:::
