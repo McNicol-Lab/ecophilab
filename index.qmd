@@ -3,3 +3,4 @@ editor: visual
 ---
 
 ![](images/logo/centered-logo-greek.png){fig-align="center"}
+We are deeply concerned about systemic resistance to change, biodiversity loss, and ecological degradation, while ouer sources of hope lie in generational awareness, collective action, trust in science, and creative cultural responses. Together, we share the belief that change is possible when knowledge, community, and imagination align.
