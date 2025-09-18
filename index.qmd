@@ -6,5 +6,5 @@ editor: visual
 
 ::: {style="text-align: center;"}
 **Group Reflection**   
-We are deeply concerned about systemic resistance to change, biodiversity loss, and ecological degradation, while our sources of hope lie in generational awareness, collective action, trust in science, and creative cultural responses. Together, we share the belief that change is possible when knowledge, community, and imagination align.
+We are concerned with resistance and resilience in the face of global change, biodiversity loss, and ecological degradation, while our sources of hope lie in generational awareness, collective action, trust in science, and creative cultural responses. Together, we share the belief that sustaining ecosystem and planetary health is possible when knowledge, community, and imagination align.
 :::
