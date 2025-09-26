@@ -12,7 +12,7 @@ editor: visual
 ![Gavin on East Glacier Trail, Juneau, AK](images/headshots/gavin.png)
 :::
 ::: {.g-col-6}
-Hello! Thanks for visiting the ecoϕlab website. My interest in atmosphere-biosphere interactions began early in my life on the Isle of Skye, in the NW Highlands of Scotland. Our deforested landscape of sphagnum bogs, heather moorland, and post-glacial mountains is a dynamic watercolor scene that shifts in tone and hue with the passing seasons - sometimes more than one in a single day! These wet landscapes led me to a doctoral investigation of wetland carbon biogeochemistry in restored marsh ecosystems in the California Delta, followed by postdoctoral training to scale waste sector greenhouse gas avoidance, map rainforest soil carbon, and estimate global wetland methane emissions using bookkeeping and machine learning approaches. The biggest shift in my thinking since beginning at the University of Illinois Chicago is that I now believe our work must seek a harmonious balance between local conservation goals and global change concerns. I love spaceship Earth and hope we can work together to improve our stewardship of it's incredible ecology.
+Hello! Thanks for visiting the ecoϕlab website. My interest in atmosphere-biosphere interactions began early in my life on the Isle of Skye, in the NW Highlands of Scotland. Our deforested landscape of sphagnum bogs, heather moorland, and post-glacial mountains is a dynamic watercolor scene that shifts in tone and hue with the passing seasons - sometimes more than one in a single day! These wet landscapes led me to a doctoral investigation of wetland carbon biogeochemistry in restored marsh ecosystems in the California Delta, followed by postdoctoral training to scale waste sector greenhouse gas avoidance, map rainforest soil carbon, and estimate global wetland methane emissions using bookkeeping and machine learning approaches. The biggest shift in my thinking since beginning at the University of Illinois Chicago is that I now believe our work must seek a harmonious balance between local conservation goals and global change concerns. I love spaceship Earth and hope we can improve our stewardship of it's incredible ecology. 
 :::
 :::
 
@@ -20,6 +20,14 @@ Hello! Thanks for visiting the ecoϕlab website. My interest in atmosphere-biosp
 
 ### Dr. Jessica Murray
 
+::: {.grid}
+::: {.g-col-6}
+![Jessica enjoying heterotrophic plants, Point Bridget, AK](images/headshots/jessica.png)
+:::
+::: {.g-col-6}
+Jessica is an ecosystem ecologist who loves soil biogeochemistry. Her research interests include carbon-climate feedbacks, the role of canopy soils in forest processes, and the mechanisms of soil carbon stabilization. After over a decade working in the tropics, Jessica has taken her love for wet ecosystems to the coastal temperate rainforest as a postdoc for the ecophi lab. Her current research focuses on the effects of yellow-cedar decline on forest function.
+:::
+:::
 
 ## Phd Candidates
 
@@ -37,6 +45,15 @@ I am Junior Jules Francois, a PhD candidate in the ecoϕlab within the Departmen
 ### Michael Yonker
 
 ### Aaron MacDonald
+
+::: {.grid}
+::: {.g-col-6}
+![Placeholder](images/headshots/aaron.jpeg)
+:::
+::: {.g-col-6}
+Hi, my name is Aaron MacDonald, a PhD student the Earth and Environmental Sciences department. I completed my undergraduate degree at University of Toronto in "Forest Conservation Science" and "Biodiversity and Conservation Biology". I am interested in Yellow Cedar Decline in southern Alaska, and how it affects carbon flux. I am especially interested in how individual organisms and effects scale to the ecosystem level. I am also passionate about DEI in stem, and making sure everyone has a place.
+:::
+:::
 
 ## Undergraduate Assistants
 
