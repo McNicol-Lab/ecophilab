@@ -44,11 +44,24 @@ I am Junior Jules Francois, a PhD candidate in the ecoϕlab within the Departmen
 
 ### Michael Yonker
 
+::: {.grid}
+::: {.g-col-6}
+![Michael with tomato plants that he co-parented, Franklin Grove, IL](images/headshots/michael.jpeg)
+
+
+:::
+::: {.g-col-6}
+Hi! I’m Michael, a PhD candidate in the ecoɸlab. My background is in civil engineering, but I've been more interested in biogeochemistry and ecology since I've started grad school. My research focuses on the tallgrass prairie and how different management practices affect ecosystem function in remnant vs. restored sites. In my free time, I like to play video games and take macro photos of plants.
+:::
+:::
+
+
+
 ### Aaron MacDonald
 
 ::: {.grid}
 ::: {.g-col-6}
-![Placeholder](images/headshots/aaron.jpeg)
+![Aaron conducting fieldwork](images/headshots/aaron.jpeg)
 :::
 ::: {.g-col-6}
 Hi, my name is Aaron MacDonald, a PhD student the Earth and Environmental Sciences department. I completed my undergraduate degree at University of Toronto in "Forest Conservation Science" and "Biodiversity and Conservation Biology". I am interested in Yellow Cedar Decline in southern Alaska, and how it affects carbon flux. I am especially interested in how individual organisms and effects scale to the ecosystem level. I am also passionate about DEI in stem, and making sure everyone has a place.
