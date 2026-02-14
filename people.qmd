@@ -16,6 +16,21 @@ Hello! Thanks for visiting the ecoϕlab website. My interest in atmosphere-biosp
 :::
 :::
 
+## Lab Manager
+
+### Jack Breiter
+
+::: {.grid}
+::: {.g-col-6}
+![Jack back on a snow UIC campus, Chicago, IL](images/headshots/jack.png)
+:::
+::: {.g-col-6}
+My name is Jack Breiter. I’m a Visiting Research Specialist and the acting Lab Manager for the ecoϕlab here at UIC. I graduated from the University of Illinois in 2021 and received my B.S in Environmental Sustainability. I’ve previously worked here at the ecoϕlab from 2022 through early 2024. I then proceeded to get some industry experience, specifically as a PE for a fire protection subcontractor. Full circle, now I’m back and started in Jan of 2026. I look to bring my previous skills, novel management experience from a high-stakes industry setting, and general curiosity into the lab to learn and share these experiences with everyone else!  
+
+Some hobbies of my include reading, video games, journaling, and mostly anything physical outside. 
+:::
+:::
+
 ## Postdoctoral Research Associates
 
 ### Dr. Jessica Murray
@@ -29,7 +44,7 @@ Jessica is an ecosystem ecologist who loves soil biogeochemistry. Her research i
 :::
 :::
 
-## Phd Candidates
+## PhD Students
 
 ### Junior Jules Francois
 
@@ -81,4 +96,24 @@ My name is Dylan Janowski, and I am an undergraduate student studying Earth and 
 :::
 :::
 
-### Isa Sagat
+### Anirudh Iyengar
+
+::: {.grid}
+::: {.g-col-6}
+![Ani on a mountain pass](images/headshots/ani.png)
+:::
+::: {.g-col-6}
+Hello, my name is Anirudh Iyengar. I am an undergraduate studying Earth and environmental sciences at UIC. I am interested with paleontology and geophysics. I also like to work out and play badminton in my free time
+:::
+:::
+
+### Nicholas Fedchuk
+
+::: {.grid}
+::: {.g-col-6}
+![Nicholas, suturing](images/headshots/nick.jpg)
+:::
+::: {.g-col-6}
+My name is Nicholas Fedchuk, and I am an undergraduate student studying Biological Sciences at UIC. I am on an accelerated pre-med track and choose to place emphasis on honing my technical lab skills and technique in both chemical and biological settings. After my CNA certification, I continue to involve myself in the healthcare community through volunteering and clubs. Outside of the academic and pre-professional world, I love to do winter sports (mostly snowboard), hike, and exercise.
+:::
+:::
