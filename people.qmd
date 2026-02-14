@@ -100,7 +100,7 @@ My name is Dylan Janowski, and I am an undergraduate student studying Earth and 
 
 ::: {.grid}
 ::: {.g-col-6}
-![Ani on a mountain pass](images/headshots/ani.png)
+![Ani in the Smoky Mountains](images/headshots/ani.png)
 :::
 ::: {.g-col-6}
 Hello, my name is Anirudh Iyengar. I am an undergraduate studying Earth and environmental sciences at UIC. I am interested with paleontology and geophysics. I also like to work out and play badminton in my free time
