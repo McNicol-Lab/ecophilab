@@ -8,7 +8,7 @@ page-layout: full
 :::
 
 ```{=html}
-<link rel="stylesheet" href="skill-tree/style.css">
-<script src="skill-tree/config.js"></script>
-<script src="skill-tree/app.js" defer></script>
+<link rel="stylesheet" href="skill-tree/style.css?v=2">
+<script src="skill-tree/config.js?v=2"></script>
+<script src="skill-tree/app.js?v=2" defer></script>
 ```
