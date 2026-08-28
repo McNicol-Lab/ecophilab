@@ -1,7 +1,7 @@
 {
   "lab": "ecoϕlab",
   "subtitle": "Members-only skill trees — McNicol Lab, UIC EAES",
-  "sources_note": "Nodes are taken from ecoɸlab Drive (Rules of the Road, Graduate Student Guidelines, Steps for MS Graduation, PhD progress form, Lab Manager To-Knows, postdoc onboarding), UIC EAES handbook/catalog, and lab Outlook (SciShield list, timesheets, quals mail). Not a substitute for the Graduate College or HR.",
+  "sources_note": "Nodes are taken from ecoɸlab Drive (Rules of the Road, Graduate Student Guidelines, Steps for MS Graduation, PhD progress form, Lab Manager To-Knows, postdoc onboarding), UIC EAES handbook/catalog, lab Outlook (SciShield list, timesheets, quals mail), and PI-specified lab training (fellowships, helping other projects, running lab meeting, papers in Y3–5). Not a substitute for the Graduate College or HR.",
   "roles": [
     {
       "id": "lab-aide",
@@ -192,7 +192,7 @@
     {
       "id": "masters",
       "name": "Master’s student",
-      "blurb": "2–3 years. Proposal by Spring 1, coursework by Fall 2, defense in Spring 2 on Gavin’s graduation calendar.",
+      "blurb": "2–3 years. Proposal by Spring 1, plus fellowships, helping other projects, and running lab meeting for a semester.",
       "nodes": [
         {
           "id": "shared-id-access",
@@ -366,6 +366,45 @@
           "links": []
         },
         {
+          "id": "student-fellowship",
+          "title": "Write a fellowship proposal",
+          "branch": "Community",
+          "requires": [
+            "ms-advisor"
+          ],
+          "description": "Draft at least one external or internal fellowship proposal with Gavin (NSF GRFP where eligible, UIC Grad College awards, or an agency fellowship that fits your stage). Treat it as a writing product: aims, broader impacts, and a timeline. If you are already a fellow, keep the annual report tied to your IDP.",
+          "links": [
+            {
+              "label": "NSF GRFP",
+              "url": "https://www.nsfgrfp.org/"
+            },
+            {
+              "label": "UIC Grad College fellowships",
+              "url": "https://grad.uic.edu/funding-awards/graduate-college-fellowships/"
+            }
+          ]
+        },
+        {
+          "id": "student-help-projects",
+          "title": "Help another lab project",
+          "branch": "Community",
+          "requires": [
+            "shared-lab-meeting"
+          ],
+          "description": "Contribute to someone else’s campaign, analysis, or manuscript (field day, lab processing, code, figures). Say yes at least once a year. If it becomes a paper, use CRediT so authorship is explicit.",
+          "links": []
+        },
+        {
+          "id": "student-run-lab-meeting",
+          "title": "Organize lab meeting for one semester",
+          "branch": "Community",
+          "requires": [
+            "shared-lab-meeting"
+          ],
+          "description": "Run the weekly 50-minute lab meeting for a full semester: set the When2Meet or calendar, keep an agenda, book the room, and facilitate (conversation, not a lecture). Coordinate with Gavin and the lab manager.",
+          "links": []
+        },
+        {
           "id": "ms-nov",
           "title": "Graduation year: November timeline",
           "branch": "Graduation",
@@ -435,7 +474,7 @@
     {
       "id": "phd",
       "name": "PhD student",
-      "blurb": "5–7 years. Quals, prelim, twice-yearly progress form, and a data + writing + talk deliverable every semester.",
+      "blurb": "5–7 years. Quals, prelim, one paper a year in Y3–5, plus fellowships, helping other projects, and running lab meeting for a semester.",
       "nodes": [
         {
           "id": "shared-id-access",
@@ -568,6 +607,45 @@
           "links": []
         },
         {
+          "id": "student-fellowship",
+          "title": "Write a fellowship proposal",
+          "branch": "Community",
+          "requires": [
+            "phd-advisor"
+          ],
+          "description": "Draft at least one external or internal fellowship proposal with Gavin (NSF GRFP where eligible, UIC Grad College awards, or an agency fellowship that fits your stage). Treat it as a writing product: aims, broader impacts, and a timeline. If you are already a fellow, keep the annual report tied to your IDP.",
+          "links": [
+            {
+              "label": "NSF GRFP",
+              "url": "https://www.nsfgrfp.org/"
+            },
+            {
+              "label": "UIC Grad College fellowships",
+              "url": "https://grad.uic.edu/funding-awards/graduate-college-fellowships/"
+            }
+          ]
+        },
+        {
+          "id": "student-help-projects",
+          "title": "Help another lab project",
+          "branch": "Community",
+          "requires": [
+            "shared-lab-meeting"
+          ],
+          "description": "Contribute to someone else’s campaign, analysis, or manuscript (field day, lab processing, code, figures). Say yes at least once a year. If it becomes a paper, use CRediT so authorship is explicit.",
+          "links": []
+        },
+        {
+          "id": "student-run-lab-meeting",
+          "title": "Organize lab meeting for one semester",
+          "branch": "Community",
+          "requires": [
+            "shared-lab-meeting"
+          ],
+          "description": "Run the weekly 50-minute lab meeting for a full semester: set the When2Meet or calendar, keep an agenda, book the room, and facilitate (conversation, not a lecture). Coordinate with Gavin and the lab manager.",
+          "links": []
+        },
+        {
           "id": "phd-quals-scope",
           "title": "Scope qualifying exam topics",
           "branch": "Qualifying exam",
@@ -610,6 +688,36 @@
             "phd-committee"
           ],
           "description": "Usually the 2nd semester after quals (progress form: 4th semester) and at least one calendar year before the dissertation defense. Written proposal in a funding-agency style to the committee ≥1 week prior; ~30 min talk plus 1–2 hours of questions. Committee ≥5, including 3 full GC faculty and 2 tenured. Passing is admission to candidacy. Schedule via when2meet with months of lead time. Then meet the DGS with a completed course checklist.",
+          "links": []
+        },
+        {
+          "id": "phd-paper-y3",
+          "title": "Year 3 paper",
+          "branch": "Publishing",
+          "requires": [
+            "phd-prelim"
+          ],
+          "description": "Submit or publish one paper in year 3 (first-author or substantial co-author). Discuss target journal and CRediT with Gavin before you write.",
+          "links": []
+        },
+        {
+          "id": "phd-paper-y4",
+          "title": "Year 4 paper",
+          "branch": "Publishing",
+          "requires": [
+            "phd-paper-y3"
+          ],
+          "description": "One paper in year 4. Keep the one-per-year cadence even if year 3 is still in review: a new submission counts.",
+          "links": []
+        },
+        {
+          "id": "phd-paper-y5",
+          "title": "Year 5 paper",
+          "branch": "Publishing",
+          "requires": [
+            "phd-paper-y4"
+          ],
+          "description": "One paper in year 5. By defense you should have a trail of submitted or published work from years 3–5, not a single end-of-PhD dump.",
           "links": []
         },
         {

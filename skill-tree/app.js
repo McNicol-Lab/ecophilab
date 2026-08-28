@@ -121,7 +121,7 @@
   }
 
   async function loadTrees() {
-    const res = await fetch("skill-tree/trees.json");
+    const res = await fetch("skill-tree/trees.json?v=3");
     state.trees = await res.json();
     const roles = state.trees.roles || [];
     state.roleId = (roles[0] && roles[0].id) || null;
