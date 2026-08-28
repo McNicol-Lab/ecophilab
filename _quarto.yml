@@ -12,6 +12,8 @@ website:
         href: index.qmd
       - text: Projects  
         href: projects.qmd
+      - text: Work
+        href: work.qmd
       - text: People
         href: people.qmd
       - text: Skill tree
