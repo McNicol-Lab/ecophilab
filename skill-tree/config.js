@@ -1,8 +1,7 @@
-/* Members-only GitHub OAuth. Fill clientId + authProxyUrl after creating
-   a GitHub OAuth App on McNicol-Lab. Never put the client secret here. */
+/* Members-only GitHub OAuth. Never put the client secret here. */
 window.ECOPHILAB_AUTH = {
   org: "McNicol-Lab",
-  clientId: "",
-  authProxyUrl: "",
+  clientId: "Ov23liHudWUV1yLTlweA",
+  authProxyUrl: "https://ecophilab-auth.ecophilab.workers.dev",
   callbackPath: "/ecophilab/skill-tree.html"
 };
