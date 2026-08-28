@@ -1,5 +1,7 @@
 project:
   type: website
+  resources:
+    - skill-tree/**
 
 website:
   site-url: "https://mcnicol-lab.github.io/ecophilab"
@@ -12,6 +14,8 @@ website:
         href: projects.qmd
       - text: People
         href: people.qmd
+      - text: Skill tree
+        href: skill-tree.qmd
       - text: Contact
         href: contact.qmd
       - text: About

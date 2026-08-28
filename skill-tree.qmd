@@ -1,0 +1,14 @@
+---
+title: "Skill tree"
+page-layout: full
+---
+
+::: {.skill-tree-page}
+<div id="st-root"></div>
+:::
+
+```{=html}
+<link rel="stylesheet" href="skill-tree/style.css">
+<script src="skill-tree/config.js"></script>
+<script src="skill-tree/app.js" defer></script>
+```

@@ -1,0 +1,6 @@
+name = "ecophilab-auth"
+main = "worker.js"
+compatibility_date = "2026-08-01"
+
+# wrangler secret put GITHUB_CLIENT_ID
+# wrangler secret put GITHUB_CLIENT_SECRET
