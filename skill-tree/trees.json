@@ -1,0 +1,1047 @@
+{
+  "lab": "ecoϕlab",
+  "subtitle": "Members-only skill trees — McNicol Lab, UIC EAES",
+  "sources_note": "Nodes are taken from ecoɸlab Drive (Rules of the Road, Graduate Student Guidelines, Steps for MS Graduation, PhD progress form, Lab Manager To-Knows, postdoc onboarding), UIC EAES handbook/catalog, and lab Outlook (SciShield list, timesheets, quals mail). Not a substitute for the Graduate College or HR.",
+  "roles": [
+    {
+      "id": "lab-aide",
+      "name": "Lab aide",
+      "blurb": "Hourly undergraduate / field-and-lab assistant. Safety, schedule, methods, then a poster if you have a project.",
+      "nodes": [
+        {
+          "id": "shared-id-access",
+          "title": "UIC ID and building access",
+          "branch": "Onboarding",
+          "requires": [],
+          "description": "Get a UIC i-card. If you will be in SES 1344 or doing weekend fieldwork, ask John for SES and loading-dock access.",
+          "links": []
+        },
+        {
+          "id": "shared-drive",
+          "title": "ecoɸlab Drive access",
+          "branch": "Onboarding",
+          "requires": [],
+          "description": "Get into the ecoɸlab Google Drive. Transfer ownership of any new docs you create to Gavin, and keep a second copy of data.",
+          "links": []
+        },
+        {
+          "id": "shared-github",
+          "title": "Join McNicol-Lab on GitHub",
+          "branch": "Onboarding",
+          "requires": [],
+          "description": "Join the McNicol-Lab GitHub org for code and this skill tree.",
+          "links": [
+            {
+              "label": "McNicol-Lab on GitHub",
+              "url": "https://github.com/McNicol-Lab"
+            }
+          ]
+        },
+        {
+          "id": "shared-listserv",
+          "title": "Join the lab mailing list",
+          "branch": "Onboarding",
+          "requires": [],
+          "description": "Join O365-mcnicollab@UIC365.onmicrosoft.com. Important lab updates go here and in lab meeting, not Slack.",
+          "links": []
+        },
+        {
+          "id": "shared-rules",
+          "title": "Read Rules of the Road",
+          "branch": "Onboarding",
+          "requires": [],
+          "description": "Read the lab code of conduct. It is reviewed early each semester and revisited at least once a year in lab meeting.",
+          "links": [
+            {
+              "label": "Rules of the Road",
+              "url": "https://docs.google.com/document/d/1SzLcjWHysMVPNpKwNuXqJ9l25nWyryA9Pd9u7V8dv8s"
+            }
+          ]
+        },
+        {
+          "id": "shared-lab-meeting",
+          "title": "Come to weekly lab meeting",
+          "branch": "Onboarding",
+          "requires": [
+            "shared-rules"
+          ],
+          "description": "Gavin runs a weekly 50-minute group meeting: a few minutes of announcements, then a talk, paper, or skill swap. Spring 2026: Friday 2–3pm, SES conference room.",
+          "links": []
+        },
+        {
+          "id": "shared-scishield",
+          "title": "SciShield / EHSO trainings",
+          "branch": "Safety",
+          "requires": [],
+          "description": "Paid lab members complete SciShield trainings (renewed annually): Intro to Laboratory Safety (classroom/Zoom), Annual Laboratory Safety Refresher, Annual Radiation Safety Refresher, Sharps Safety, and Working Safely with Radioactive Materials (classroom). Find them at ehso.uic.edu → SciShield → Training → Course Directory. The PI gets monthly overdue notices.",
+          "links": [
+            {
+              "label": "SciShield",
+              "url": "https://uic.scishield.com/"
+            },
+            {
+              "label": "EHSO training",
+              "url": "https://ehso.uic.edu/training/introduction-to-laboratory-safety-training/"
+            }
+          ]
+        },
+        {
+          "id": "shared-contacts",
+          "title": "Know your campus contacts",
+          "branch": "Onboarding",
+          "requires": [],
+          "description": "PI Gavin McNicol, DUS D’Arcy Meyer-Dombard, DGS Andrew Dombard, department head Fabien Kenig, CROCUS PI Max Berkelhammer, and UIC Office for Access & Equity. Grants: Edna Fuentes. Travel, purchasing, reimbursements: Minnie Jones.",
+          "links": [
+            {
+              "label": "UIC OAE",
+              "url": "https://oae.uic.edu/drs/"
+            }
+          ]
+        },
+        {
+          "id": "aide-hr",
+          "title": "Offer letter and HR onboarding",
+          "branch": "Hiring",
+          "requires": [],
+          "description": "Complete the Adobe Sign offer letter, confirm the payroll funding source with the department, then start HR onboarding before any paid work. Foreign-national student workers have extra HR steps that must be initiated first.",
+          "links": []
+        },
+        {
+          "id": "aide-safety-paid",
+          "title": "Paid-worker safety briefing",
+          "branch": "Safety",
+          "requires": [
+            "aide-hr",
+            "shared-scishield"
+          ],
+          "description": "Lab safety training is required for anyone doing paid work in SES 1344 (hourly UG or RA). A briefing is enough only for minor incidental work. You must be on the SciShield roster before working in the lab.",
+          "links": [
+            {
+              "label": "Lab safety training",
+              "url": "https://ehso.uic.edu/training/introduction-to-laboratory-safety-training/"
+            }
+          ]
+        },
+        {
+          "id": "aide-sling",
+          "title": "Sling schedule, never alone in lab",
+          "branch": "Lab practice",
+          "requires": [
+            "aide-safety-paid"
+          ],
+          "description": "Get on the Sling weekly schedule. A manager, graduate student, or Gavin should be in the lab or building whenever an undergrad is scheduled.",
+          "links": []
+        },
+        {
+          "id": "aide-protocols",
+          "title": "Follow protocols; do not edit them",
+          "branch": "Lab practice",
+          "requires": [
+            "aide-sling"
+          ],
+          "description": "Read the protocol for each method before you use it. Undergrads do not change procedures on their own. Gavin approves protocol edits.",
+          "links": []
+        },
+        {
+          "id": "aide-methods",
+          "title": "Core methods as assigned",
+          "branch": "Methods",
+          "requires": [
+            "aide-protocols"
+          ],
+          "description": "Typical undergraduate work is wet/dry chemistry and field work: soil processing, PARIO texture, GC gas samples, chamber fluxes. Door closed when empty; keep the bench clean. DI water should read 18.2 MΩ before filling.",
+          "links": []
+        },
+        {
+          "id": "aide-field",
+          "title": "Field prep (CROCUS / Nachusa)",
+          "branch": "Field",
+          "requires": [
+            "aide-protocols"
+          ],
+          "description": "For Nachusa: watch the required TNC video, go with at least four people, and confirm the UTV with Elizabeth Bach. For CROCUS, bring data sheets and follow the fieldwork prep protocol. Mileage and rentals go through Minnie with Gavin copied.",
+          "links": []
+        },
+        {
+          "id": "aide-timesheet",
+          "title": "Biweekly timesheets",
+          "branch": "Hiring",
+          "requires": [
+            "aide-hr"
+          ],
+          "description": "Hourly aides submit a signed PDF named BW-##-FirstName LastName-Professor Name-X Hours to the supervisor, cc arsias@uic.edu, AND enter the same hours in WebTime Entry. Both employee and supervisor sign. Cap: 8 hours/day; international students 20 hours/week across all campus jobs. Lunch is not work time.",
+          "links": [
+            {
+              "label": "WebTime / apps",
+              "url": "https://apps.uillinois.edu/"
+            }
+          ]
+        },
+        {
+          "id": "aide-project",
+          "title": "Independent project or poster",
+          "branch": "Growth",
+          "requires": [
+            "aide-methods"
+          ],
+          "description": "If you have an independent project, check in often with the lab manager and ask Gavin for help (he will not chase you). Typical products are a lab presentation or URF poster. Ask before changing a method.",
+          "links": []
+        }
+      ]
+    },
+    {
+      "id": "masters",
+      "name": "Master’s student",
+      "blurb": "2–3 years. Proposal by Spring 1, coursework by Fall 2, defense in Spring 2 on Gavin’s graduation calendar.",
+      "nodes": [
+        {
+          "id": "shared-id-access",
+          "title": "UIC ID and building access",
+          "branch": "Onboarding",
+          "requires": [],
+          "description": "Get a UIC i-card. If you will be in SES 1344 or doing weekend fieldwork, ask John for SES and loading-dock access.",
+          "links": []
+        },
+        {
+          "id": "shared-drive",
+          "title": "ecoɸlab Drive access",
+          "branch": "Onboarding",
+          "requires": [],
+          "description": "Get into the ecoɸlab Google Drive. Transfer ownership of any new docs you create to Gavin, and keep a second copy of data.",
+          "links": []
+        },
+        {
+          "id": "shared-github",
+          "title": "Join McNicol-Lab on GitHub",
+          "branch": "Onboarding",
+          "requires": [],
+          "description": "Join the McNicol-Lab GitHub org for code and this skill tree.",
+          "links": [
+            {
+              "label": "McNicol-Lab on GitHub",
+              "url": "https://github.com/McNicol-Lab"
+            }
+          ]
+        },
+        {
+          "id": "shared-listserv",
+          "title": "Join the lab mailing list",
+          "branch": "Onboarding",
+          "requires": [],
+          "description": "Join O365-mcnicollab@UIC365.onmicrosoft.com. Important lab updates go here and in lab meeting, not Slack.",
+          "links": []
+        },
+        {
+          "id": "shared-rules",
+          "title": "Read Rules of the Road",
+          "branch": "Onboarding",
+          "requires": [],
+          "description": "Read the lab code of conduct. It is reviewed early each semester and revisited at least once a year in lab meeting.",
+          "links": [
+            {
+              "label": "Rules of the Road",
+              "url": "https://docs.google.com/document/d/1SzLcjWHysMVPNpKwNuXqJ9l25nWyryA9Pd9u7V8dv8s"
+            }
+          ]
+        },
+        {
+          "id": "shared-lab-meeting",
+          "title": "Come to weekly lab meeting",
+          "branch": "Onboarding",
+          "requires": [
+            "shared-rules"
+          ],
+          "description": "Gavin runs a weekly 50-minute group meeting: a few minutes of announcements, then a talk, paper, or skill swap. Spring 2026: Friday 2–3pm, SES conference room.",
+          "links": []
+        },
+        {
+          "id": "shared-scishield",
+          "title": "SciShield / EHSO trainings",
+          "branch": "Safety",
+          "requires": [],
+          "description": "Paid lab members complete SciShield trainings (renewed annually): Intro to Laboratory Safety (classroom/Zoom), Annual Laboratory Safety Refresher, Annual Radiation Safety Refresher, Sharps Safety, and Working Safely with Radioactive Materials (classroom). Find them at ehso.uic.edu → SciShield → Training → Course Directory. The PI gets monthly overdue notices.",
+          "links": [
+            {
+              "label": "SciShield",
+              "url": "https://uic.scishield.com/"
+            },
+            {
+              "label": "EHSO training",
+              "url": "https://ehso.uic.edu/training/introduction-to-laboratory-safety-training/"
+            }
+          ]
+        },
+        {
+          "id": "shared-contacts",
+          "title": "Know your campus contacts",
+          "branch": "Onboarding",
+          "requires": [],
+          "description": "PI Gavin McNicol, DUS D’Arcy Meyer-Dombard, DGS Andrew Dombard, department head Fabien Kenig, CROCUS PI Max Berkelhammer, and UIC Office for Access & Equity. Grants: Edna Fuentes. Travel, purchasing, reimbursements: Minnie Jones.",
+          "links": [
+            {
+              "label": "UIC OAE",
+              "url": "https://oae.uic.edu/drs/"
+            }
+          ]
+        },
+        {
+          "id": "ms-advisor",
+          "title": "Choose advisor and start 1:1s",
+          "branch": "Year 1",
+          "requires": [
+            "shared-lab-meeting"
+          ],
+          "description": "Select an advisor as soon as possible in Fall 1. Gavin schedules a weekly 50-minute one-on-one with students he mentors. Treat the program as ~40 hours/week. Write 3–5 semester goals and discuss them.",
+          "links": [
+            {
+              "label": "EAES MS handbook",
+              "url": "https://eaes.uic.edu/programs/graduate-studies/graduate-student-handbook-2/masters-program/"
+            }
+          ]
+        },
+        {
+          "id": "ms-courses",
+          "title": "Course plan: 32 hours + 590 + 595",
+          "branch": "Year 1",
+          "requires": [
+            "ms-advisor"
+          ],
+          "description": "32 semester hours: 12 in concentration, 12 outside, at least 9 at 500-level excluding 595/596/598. EAES 590 in the first year (departmental; 2 hours do not count toward the 32). EAES 595 every semester in residence. Up to 8 hours of EAES 598. Only A/B/C/P/S count. TA/RA enroll at least 8 hours (9 for CTA U-Pass).",
+          "links": [
+            {
+              "label": "Catalog: MS",
+              "url": "https://catalog.uic.edu/gcat/colleges-schools/liberal-arts-sciences/eaes/ms/"
+            }
+          ]
+        },
+        {
+          "id": "ms-progress",
+          "title": "Semester progress form (or registration holds)",
+          "branch": "Year 1",
+          "requires": [
+            "ms-advisor"
+          ],
+          "description": "Meet the DGS and file a progress form every semester. Registration stays on hold until it is signed. GPA must stay at 3.00.",
+          "links": [
+            {
+              "label": "Handbook overview",
+              "url": "https://eaes.uic.edu/programs/graduate-studies/graduate-student-handbook-2/graduate-student-handbook/"
+            }
+          ]
+        },
+        {
+          "id": "ms-proposal",
+          "title": "Thesis proposal by end of Spring 1",
+          "branch": "Year 1",
+          "requires": [
+            "ms-courses"
+          ],
+          "description": "Finish the thesis proposal by the end of the second semester. After Gavin accepts a first version, form a committee of three departmental faculty (including adjuncts). The committee meets to evaluate the proposal. Chair is usually a full Graduate College faculty member; at least one member is tenured.",
+          "links": [
+            {
+              "label": "EAES MS handbook",
+              "url": "https://eaes.uic.edu/programs/graduate-studies/graduate-student-handbook-2/masters-program/"
+            }
+          ]
+        },
+        {
+          "id": "ms-data",
+          "title": "Start data collection",
+          "branch": "Year 1",
+          "requires": [
+            "ms-proposal",
+            "shared-scishield"
+          ],
+          "description": "Begin data as early as possible after the proposal. Get comfortable in the lab; ask the lab manager or Gavin for processing tasks. Most coursework should be done by the end of year 1; all coursework by the end of Fall 2.",
+          "links": []
+        },
+        {
+          "id": "ms-writing",
+          "title": "Writing every semester",
+          "branch": "Year 2",
+          "requires": [
+            "ms-data"
+          ],
+          "description": "Every semester include writing (course paper, scholarship, or manuscript). At the end of the term, send Gavin a before/after writing-progress summary. 5-year time limit on the MS; departmental TA support is aimed at 2 years.",
+          "links": []
+        },
+        {
+          "id": "ms-nov",
+          "title": "Graduation year: November timeline",
+          "branch": "Graduation",
+          "requires": [
+            "ms-writing"
+          ],
+          "description": "In the fall before a spring defense: review this calendar against the current Graduate College dates, discuss your timeline with Gavin by 15 November, then tell the committee. Dates in the Drive doc were AY23–24; always check the academic calendar.",
+          "links": [
+            {
+              "label": "UIC academic calendar",
+              "url": "https://catalog.uic.edu/gcat/academic-calendar/"
+            }
+          ]
+        },
+        {
+          "id": "ms-dec",
+          "title": "December storyboard and book the defense",
+          "branch": "Graduation",
+          "requires": [
+            "ms-nov"
+          ],
+          "description": "By 15 December, present Gavin a storyboard: opening, challenge, action (methods/results figures), resolution. If approved, email the committee to schedule the oral defense (first full week of March is the lab’s usual window) and email Edna to reserve SELE 1280.",
+          "links": []
+        },
+        {
+          "id": "ms-jan",
+          "title": "January draft, intent, committee form",
+          "branch": "Graduation",
+          "requires": [
+            "ms-dec"
+          ],
+          "description": "Share a full methods-and-results draft by mid-January. Submit Intent to Graduate. File the Committee Recommendation form 6–8 weeks before the defense — the title on that form becomes the official thesis title.",
+          "links": []
+        },
+        {
+          "id": "ms-feb",
+          "title": "February full thesis + iThenticate",
+          "branch": "Graduation",
+          "requires": [
+            "ms-jan"
+          ],
+          "description": "Full thesis draft to Gavin by mid-February, then to the committee by late February. Reconfirm the date. Screen with iThenticate. Practice the talk in a semi-formal setting first. Department: readable draft available to faculty ≥1 week before. Graduate College: completed thesis to the full committee ≥2 weeks before.",
+          "links": [
+            {
+              "label": "iThenticate",
+              "url": "https://grad.uic.edu/academic-support/thesis/ithenticate-review-procedures/"
+            }
+          ]
+        },
+        {
+          "id": "ms-defend",
+          "title": "Defend and file",
+          "branch": "Graduation",
+          "requires": [
+            "ms-feb"
+          ],
+          "description": "Public colloquium 35–45 minutes (lab target 45 + 10 for questions), then a closed oral exam. Cannot pass with more than one Fail vote. File the Examination Report within two days, then the thesis and certificates of approval by Graduate College deadlines.",
+          "links": [
+            {
+              "label": "Thesis and dissertation",
+              "url": "https://eaes.uic.edu/programs/graduate-studies/graduate-student-handbook-2/thesis-and-dissertation-work/"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "phd",
+      "name": "PhD student",
+      "blurb": "5–7 years. Quals, prelim, twice-yearly progress form, and a data + writing + talk deliverable every semester.",
+      "nodes": [
+        {
+          "id": "shared-id-access",
+          "title": "UIC ID and building access",
+          "branch": "Onboarding",
+          "requires": [],
+          "description": "Get a UIC i-card. If you will be in SES 1344 or doing weekend fieldwork, ask John for SES and loading-dock access.",
+          "links": []
+        },
+        {
+          "id": "shared-drive",
+          "title": "ecoɸlab Drive access",
+          "branch": "Onboarding",
+          "requires": [],
+          "description": "Get into the ecoɸlab Google Drive. Transfer ownership of any new docs you create to Gavin, and keep a second copy of data.",
+          "links": []
+        },
+        {
+          "id": "shared-github",
+          "title": "Join McNicol-Lab on GitHub",
+          "branch": "Onboarding",
+          "requires": [],
+          "description": "Join the McNicol-Lab GitHub org for code and this skill tree.",
+          "links": [
+            {
+              "label": "McNicol-Lab on GitHub",
+              "url": "https://github.com/McNicol-Lab"
+            }
+          ]
+        },
+        {
+          "id": "shared-listserv",
+          "title": "Join the lab mailing list",
+          "branch": "Onboarding",
+          "requires": [],
+          "description": "Join O365-mcnicollab@UIC365.onmicrosoft.com. Important lab updates go here and in lab meeting, not Slack.",
+          "links": []
+        },
+        {
+          "id": "shared-rules",
+          "title": "Read Rules of the Road",
+          "branch": "Onboarding",
+          "requires": [],
+          "description": "Read the lab code of conduct. It is reviewed early each semester and revisited at least once a year in lab meeting.",
+          "links": [
+            {
+              "label": "Rules of the Road",
+              "url": "https://docs.google.com/document/d/1SzLcjWHysMVPNpKwNuXqJ9l25nWyryA9Pd9u7V8dv8s"
+            }
+          ]
+        },
+        {
+          "id": "shared-lab-meeting",
+          "title": "Come to weekly lab meeting",
+          "branch": "Onboarding",
+          "requires": [
+            "shared-rules"
+          ],
+          "description": "Gavin runs a weekly 50-minute group meeting: a few minutes of announcements, then a talk, paper, or skill swap. Spring 2026: Friday 2–3pm, SES conference room.",
+          "links": []
+        },
+        {
+          "id": "shared-scishield",
+          "title": "SciShield / EHSO trainings",
+          "branch": "Safety",
+          "requires": [],
+          "description": "Paid lab members complete SciShield trainings (renewed annually): Intro to Laboratory Safety (classroom/Zoom), Annual Laboratory Safety Refresher, Annual Radiation Safety Refresher, Sharps Safety, and Working Safely with Radioactive Materials (classroom). Find them at ehso.uic.edu → SciShield → Training → Course Directory. The PI gets monthly overdue notices.",
+          "links": [
+            {
+              "label": "SciShield",
+              "url": "https://uic.scishield.com/"
+            },
+            {
+              "label": "EHSO training",
+              "url": "https://ehso.uic.edu/training/introduction-to-laboratory-safety-training/"
+            }
+          ]
+        },
+        {
+          "id": "shared-contacts",
+          "title": "Know your campus contacts",
+          "branch": "Onboarding",
+          "requires": [],
+          "description": "PI Gavin McNicol, DUS D’Arcy Meyer-Dombard, DGS Andrew Dombard, department head Fabien Kenig, CROCUS PI Max Berkelhammer, and UIC Office for Access & Equity. Grants: Edna Fuentes. Travel, purchasing, reimbursements: Minnie Jones.",
+          "links": [
+            {
+              "label": "UIC OAE",
+              "url": "https://oae.uic.edu/drs/"
+            }
+          ]
+        },
+        {
+          "id": "phd-advisor",
+          "title": "Advisor, 1:1s, and course program",
+          "branch": "Year 1",
+          "requires": [
+            "shared-lab-meeting"
+          ],
+          "description": "First semester: advisor established and a coursework program attached to the PhD progress form (due 31 March and 30 November). Weekly 50-minute 1:1. ~40 hours/week. 3–5 semester goals. Horizon is 5–7 years with Gavin.",
+          "links": [
+            {
+              "label": "EAES PhD handbook",
+              "url": "https://eaes.uic.edu/programs/graduate-studies/graduate-student-handbook-2/the-doctoral-program/"
+            }
+          ]
+        },
+        {
+          "id": "phd-courses",
+          "title": "96 hours, 590, 595, GPA 3.00",
+          "branch": "Year 1",
+          "requires": [
+            "phd-advisor"
+          ],
+          "description": "96 hours past the bachelor's: ≥32 course hours, ≥46 of EAES 599, plus EAES 590 in year 1. At least three EAES 500-level courses (not 595/596/599). At most three courses outside EAES count. GPA 3.00. With an MS, up to 32 hours advanced standing (7-year clock); from a bachelor's the clock is 9 years.",
+          "links": [
+            {
+              "label": "Catalog: PhD",
+              "url": "https://catalog.uic.edu/gcat/colleges-schools/liberal-arts-sciences/eaes/phd/"
+            }
+          ]
+        },
+        {
+          "id": "phd-semester-trio",
+          "title": "Each semester: data + writing + talk",
+          "branch": "Year 1",
+          "requires": [
+            "phd-advisor"
+          ],
+          "description": "The AY25–26 PhD welcome letter: every semester must include a title, one-paragraph justification, and timeline for one data analysis (Excel report or RMarkdown), one written deliverable (paper or proposal), and one verbal deliverable (poster or talk). That work feeds an April faculty progress report.",
+          "links": []
+        },
+        {
+          "id": "phd-quals-scope",
+          "title": "Scope qualifying exam topics",
+          "branch": "Qualifying exam",
+          "requires": [
+            "phd-courses"
+          ],
+          "description": "In semester 1 the advisor plus a three-person standing committee define the subset of EAES that is fair game and point to literature. The advisor documents the scope. As of 2026, some students sit under updated committee rules — confirm with the DGS.",
+          "links": [
+            {
+              "label": "EAES PhD handbook",
+              "url": "https://eaes.uic.edu/programs/graduate-studies/graduate-student-handbook-2/the-doctoral-program/"
+            }
+          ]
+        },
+        {
+          "id": "phd-quals",
+          "title": "Pass the qualifying exam",
+          "branch": "Qualifying exam",
+          "requires": [
+            "phd-quals-scope"
+          ],
+          "description": "After the end of semester 2 and before the end of semester 3 (the EAES progress form lists quals in the 2nd semester). Written: a committee prompt, 15-page referenced paper in 30 days (clarifying questions OK), then a revised paper. Oral about a week later (15–20 min presentation then questions). Unconditional pass, conditional pass, or fail (retake within a semester or MS option).",
+          "links": []
+        },
+        {
+          "id": "phd-committee",
+          "title": "Thesis committee",
+          "branch": "Candidacy",
+          "requires": [
+            "phd-quals"
+          ],
+          "description": "Progress form: select the thesis committee in the 2nd semester. Once formed, committee members are obligated to make time for you. Annual presentation to the full committee (often March). Written evaluation yearly.",
+          "links": []
+        },
+        {
+          "id": "phd-prelim",
+          "title": "Preliminary exam / candidacy",
+          "branch": "Candidacy",
+          "requires": [
+            "phd-committee"
+          ],
+          "description": "Usually the 2nd semester after quals (progress form: 4th semester) and at least one calendar year before the dissertation defense. Written proposal in a funding-agency style to the committee ≥1 week prior; ~30 min talk plus 1–2 hours of questions. Committee ≥5, including 3 full GC faculty and 2 tenured. Passing is admission to candidacy. Schedule via when2meet with months of lead time. Then meet the DGS with a completed course checklist.",
+          "links": []
+        },
+        {
+          "id": "phd-progress-form",
+          "title": "PhD progress form twice a year",
+          "branch": "Year 1",
+          "requires": [
+            "phd-advisor"
+          ],
+          "description": "Fill the departmental PhD progress form by 31 March and 30 November. Guide to normal progress: 1st semester advisor + course program; 2nd committee + quals; 4th prelim + DGS; ~8th defend.",
+          "links": []
+        },
+        {
+          "id": "phd-dissertation",
+          "title": "Dissertation and defense",
+          "branch": "Dissertation",
+          "requires": [
+            "phd-prelim"
+          ],
+          "description": "Original research, ≥46 hours of EAES 599. Committee ≥5 with one member outside the department. Public talk then closed defense. Committee Recommendation ≥3 weeks prior; iThenticate before the defense.",
+          "links": [
+            {
+              "label": "Thesis and dissertation",
+              "url": "https://eaes.uic.edu/programs/graduate-studies/graduate-student-handbook-2/thesis-and-dissertation-work/"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "postdoc",
+      "name": "Postdoc",
+      "blurb": "Appointment, IDP, weekly 1:1, authorship, then the science plan for your project.",
+      "nodes": [
+        {
+          "id": "shared-id-access",
+          "title": "UIC ID and building access",
+          "branch": "Onboarding",
+          "requires": [],
+          "description": "Get a UIC i-card. If you will be in SES 1344 or doing weekend fieldwork, ask John for SES and loading-dock access.",
+          "links": []
+        },
+        {
+          "id": "shared-drive",
+          "title": "ecoɸlab Drive access",
+          "branch": "Onboarding",
+          "requires": [],
+          "description": "Get into the ecoɸlab Google Drive. Transfer ownership of any new docs you create to Gavin, and keep a second copy of data.",
+          "links": []
+        },
+        {
+          "id": "shared-github",
+          "title": "Join McNicol-Lab on GitHub",
+          "branch": "Onboarding",
+          "requires": [],
+          "description": "Join the McNicol-Lab GitHub org for code and this skill tree.",
+          "links": [
+            {
+              "label": "McNicol-Lab on GitHub",
+              "url": "https://github.com/McNicol-Lab"
+            }
+          ]
+        },
+        {
+          "id": "shared-listserv",
+          "title": "Join the lab mailing list",
+          "branch": "Onboarding",
+          "requires": [],
+          "description": "Join O365-mcnicollab@UIC365.onmicrosoft.com. Important lab updates go here and in lab meeting, not Slack.",
+          "links": []
+        },
+        {
+          "id": "shared-rules",
+          "title": "Read Rules of the Road",
+          "branch": "Onboarding",
+          "requires": [],
+          "description": "Read the lab code of conduct. It is reviewed early each semester and revisited at least once a year in lab meeting.",
+          "links": [
+            {
+              "label": "Rules of the Road",
+              "url": "https://docs.google.com/document/d/1SzLcjWHysMVPNpKwNuXqJ9l25nWyryA9Pd9u7V8dv8s"
+            }
+          ]
+        },
+        {
+          "id": "shared-lab-meeting",
+          "title": "Come to weekly lab meeting",
+          "branch": "Onboarding",
+          "requires": [
+            "shared-rules"
+          ],
+          "description": "Gavin runs a weekly 50-minute group meeting: a few minutes of announcements, then a talk, paper, or skill swap. Spring 2026: Friday 2–3pm, SES conference room.",
+          "links": []
+        },
+        {
+          "id": "shared-scishield",
+          "title": "SciShield / EHSO trainings",
+          "branch": "Safety",
+          "requires": [],
+          "description": "Paid lab members complete SciShield trainings (renewed annually): Intro to Laboratory Safety (classroom/Zoom), Annual Laboratory Safety Refresher, Annual Radiation Safety Refresher, Sharps Safety, and Working Safely with Radioactive Materials (classroom). Find them at ehso.uic.edu → SciShield → Training → Course Directory. The PI gets monthly overdue notices.",
+          "links": [
+            {
+              "label": "SciShield",
+              "url": "https://uic.scishield.com/"
+            },
+            {
+              "label": "EHSO training",
+              "url": "https://ehso.uic.edu/training/introduction-to-laboratory-safety-training/"
+            }
+          ]
+        },
+        {
+          "id": "shared-contacts",
+          "title": "Know your campus contacts",
+          "branch": "Onboarding",
+          "requires": [],
+          "description": "PI Gavin McNicol, DUS D’Arcy Meyer-Dombard, DGS Andrew Dombard, department head Fabien Kenig, CROCUS PI Max Berkelhammer, and UIC Office for Access & Equity. Grants: Edna Fuentes. Travel, purchasing, reimbursements: Minnie Jones.",
+          "links": [
+            {
+              "label": "UIC OAE",
+              "url": "https://oae.uic.edu/drs/"
+            }
+          ]
+        },
+        {
+          "id": "pd-appointment",
+          "title": "Appointment and first-week revisit",
+          "branch": "Start",
+          "requires": [],
+          "description": "Revisit the appointment or remote-work agreement in the first onboarding meeting. UIC Info for New Postdocs plus HR/I-9. OPA orientation. UIC postdoc-title cap is 5 years.",
+          "links": []
+        },
+        {
+          "id": "pd-idp",
+          "title": "Independent Development Plan",
+          "branch": "Start",
+          "requires": [
+            "pd-appointment"
+          ],
+          "description": "Complete a Stanford-style IDP with Gavin on your timeline. In 2025 the lab used this as the postdoc planning document (Jessica calendared it, then filled it out).",
+          "links": []
+        },
+        {
+          "id": "pd-comms",
+          "title": "Communication agreement",
+          "branch": "Start",
+          "requires": [
+            "pd-appointment"
+          ],
+          "description": "Weekly 1-hour meeting with Gavin on Zoom, 8am–5pm CT; if Zoom is impossible, send an email update that same week. Monthly 1-hour CoPI meeting that the postdoc schedules after the first one. Email with importance flags; phone is OK; no Slack. Calendly for ad hoc times.",
+          "links": [
+            {
+              "label": "Calendly",
+              "url": "https://www.calendly.com/gmcnicol"
+            }
+          ]
+        },
+        {
+          "id": "pd-tools",
+          "title": "Drive, Paperpile, GitHub",
+          "branch": "Start",
+          "requires": [
+            "shared-drive",
+            "shared-github"
+          ],
+          "description": "Shared Drive or Box for the project. Paperpile (or equivalent) for the group library. Goal: more GitHub experience on analysis code.",
+          "links": []
+        },
+        {
+          "id": "pd-authorship",
+          "title": "Authorship / CRediT conversation",
+          "branch": "Science",
+          "requires": [
+            "pd-comms"
+          ],
+          "description": "Have an explicit authorship conversation. The 2025 onboarding packet used the CRediT taxonomy. For that yellow-cedar project, foreseeable papers were postdoc first, Gavin last — confirm for your project.",
+          "links": []
+        },
+        {
+          "id": "pd-seminar",
+          "title": "EAES seminar and lab meeting",
+          "branch": "Community",
+          "requires": [
+            "shared-lab-meeting"
+          ],
+          "description": "Join the Thursday 12–1 EAES seminar and lab meeting (facilitate occasionally). Know the current lab manager via the People page. Edna Fuentes for grants; Minnie Jones for travel and purchasing.",
+          "links": [
+            {
+              "label": "People",
+              "url": "https://mcnicol-lab.github.io/ecophilab/people.html"
+            }
+          ]
+        },
+        {
+          "id": "pd-chrome",
+          "title": "Chrome River delegates",
+          "branch": "Ops",
+          "requires": [
+            "shared-contacts"
+          ],
+          "description": "In Chrome River, add Minnie Jones and Edna Fuentes as delegates. You still submit/approve the report (electronic signature). Do not self-purchase taxable supplies if you want reimbursement.",
+          "links": [
+            {
+              "label": "Chrome River",
+              "url": "https://www.busfin.uillinois.edu/cms/One.aspx?portalId=1993898&pageId=2128002"
+            }
+          ]
+        },
+        {
+          "id": "pd-safety",
+          "title": "Lab/field safety if you use SES 1344",
+          "branch": "Safety",
+          "requires": [
+            "shared-scishield"
+          ],
+          "description": "If you will be in the wet lab or the field, complete SciShield and any field-safety training Gavin funds. Injury reporting window is 24 hours.",
+          "links": []
+        }
+      ]
+    },
+    {
+      "id": "lab-manager",
+      "name": "Lab manager",
+      "blurb": "The only role with a dedicated onboarding doc. Safety admin, instruments, people, money, then hand it on.",
+      "nodes": [
+        {
+          "id": "shared-id-access",
+          "title": "UIC ID and building access",
+          "branch": "Onboarding",
+          "requires": [],
+          "description": "Get a UIC i-card. If you will be in SES 1344 or doing weekend fieldwork, ask John for SES and loading-dock access.",
+          "links": []
+        },
+        {
+          "id": "shared-drive",
+          "title": "ecoɸlab Drive access",
+          "branch": "Onboarding",
+          "requires": [],
+          "description": "Get into the ecoɸlab Google Drive. Transfer ownership of any new docs you create to Gavin, and keep a second copy of data.",
+          "links": []
+        },
+        {
+          "id": "shared-github",
+          "title": "Join McNicol-Lab on GitHub",
+          "branch": "Onboarding",
+          "requires": [],
+          "description": "Join the McNicol-Lab GitHub org for code and this skill tree.",
+          "links": [
+            {
+              "label": "McNicol-Lab on GitHub",
+              "url": "https://github.com/McNicol-Lab"
+            }
+          ]
+        },
+        {
+          "id": "shared-listserv",
+          "title": "Join the lab mailing list",
+          "branch": "Onboarding",
+          "requires": [],
+          "description": "Join O365-mcnicollab@UIC365.onmicrosoft.com. Important lab updates go here and in lab meeting, not Slack.",
+          "links": []
+        },
+        {
+          "id": "shared-rules",
+          "title": "Read Rules of the Road",
+          "branch": "Onboarding",
+          "requires": [],
+          "description": "Read the lab code of conduct. It is reviewed early each semester and revisited at least once a year in lab meeting.",
+          "links": [
+            {
+              "label": "Rules of the Road",
+              "url": "https://docs.google.com/document/d/1SzLcjWHysMVPNpKwNuXqJ9l25nWyryA9Pd9u7V8dv8s"
+            }
+          ]
+        },
+        {
+          "id": "shared-lab-meeting",
+          "title": "Come to weekly lab meeting",
+          "branch": "Onboarding",
+          "requires": [
+            "shared-rules"
+          ],
+          "description": "Gavin runs a weekly 50-minute group meeting: a few minutes of announcements, then a talk, paper, or skill swap. Spring 2026: Friday 2–3pm, SES conference room.",
+          "links": []
+        },
+        {
+          "id": "shared-scishield",
+          "title": "SciShield / EHSO trainings",
+          "branch": "Safety",
+          "requires": [],
+          "description": "Paid lab members complete SciShield trainings (renewed annually): Intro to Laboratory Safety (classroom/Zoom), Annual Laboratory Safety Refresher, Annual Radiation Safety Refresher, Sharps Safety, and Working Safely with Radioactive Materials (classroom). Find them at ehso.uic.edu → SciShield → Training → Course Directory. The PI gets monthly overdue notices.",
+          "links": [
+            {
+              "label": "SciShield",
+              "url": "https://uic.scishield.com/"
+            },
+            {
+              "label": "EHSO training",
+              "url": "https://ehso.uic.edu/training/introduction-to-laboratory-safety-training/"
+            }
+          ]
+        },
+        {
+          "id": "shared-contacts",
+          "title": "Know your campus contacts",
+          "branch": "Onboarding",
+          "requires": [],
+          "description": "PI Gavin McNicol, DUS D’Arcy Meyer-Dombard, DGS Andrew Dombard, department head Fabien Kenig, CROCUS PI Max Berkelhammer, and UIC Office for Access & Equity. Grants: Edna Fuentes. Travel, purchasing, reimbursements: Minnie Jones.",
+          "links": [
+            {
+              "label": "UIC OAE",
+              "url": "https://oae.uic.edu/drs/"
+            }
+          ]
+        },
+        {
+          "id": "lm-unspoken",
+          "title": "Unspoken lab rules",
+          "branch": "Start",
+          "requires": [],
+          "description": "Tell other PIs if our people will use their labs (update each semester). Door closed when nobody is in the room. Read the manual for every instrument you run so you can tell when it is wrong.",
+          "links": []
+        },
+        {
+          "id": "lm-admin",
+          "title": "SciShield admin and door card",
+          "branch": "Safety",
+          "requires": [
+            "shared-scishield"
+          ],
+          "description": "Add and remove students in SciShield; check at least monthly. Update the lab-door Lab ID Card / emergency contacts (EHSO). Only rostered group members are allowed in the lab.",
+          "links": [
+            {
+              "label": "Lab ID cards",
+              "url": "https://ehso.uic.edu/research-safety/laboratory-safety/lab-id-cards/"
+            },
+            {
+              "label": "Lab Safety Plan",
+              "url": "https://ehso.uic.edu/research-safety/laboratory-safety/lab-safety-plan/"
+            }
+          ]
+        },
+        {
+          "id": "lm-protocols",
+          "title": "Write and guard protocols",
+          "branch": "Capabilities",
+          "requires": [
+            "lm-unspoken"
+          ],
+          "description": "Write a protocol for every new procedure and put it where the lab can find it (Drive, and on the ecoϕlab site when ready). Gavin approves changes. Undergrads do not edit procedures alone.",
+          "links": []
+        },
+        {
+          "id": "lm-instruments",
+          "title": "GC, PARIO, SATURO, acid bath",
+          "branch": "Capabilities",
+          "requires": [
+            "lm-protocols"
+          ],
+          "description": "Cool down the GC if any air tank drops below 300 psi. PARIO: change cylinder water biweekly (1000 mL DI) and clean the centrifuge biweekly. Acid bath every 3–6 months. SATURO lives in the back office; Max is the go-to. Eyewash 30 seconds every week, keep a log. DI from Kathy’s lab, purity 18.2 MΩ before you fill.",
+          "links": []
+        },
+        {
+          "id": "lm-waste",
+          "title": "Disposals and eyewash log",
+          "branch": "Safety",
+          "requires": [
+            "lm-admin"
+          ],
+          "description": "Empty bottles: deface, triple-rinse, follow UIC Lab Safety Plan for what may be recycled. Sharps go in the basement red bin. Hazardous waste is not evaporated in the hood.",
+          "links": [
+            {
+              "label": "UIC Lab Safety Plan",
+              "url": "https://ehso.uic.edu/research-safety/laboratory-safety/lab-safety-plan/"
+            }
+          ]
+        },
+        {
+          "id": "lm-schedule",
+          "title": "Sling, When2Meet, UG coverage",
+          "branch": "People",
+          "requires": [
+            "shared-lab-meeting"
+          ],
+          "description": "Build the weekly Sling schedule from When2Meet. A manager, grad, or Gavin is present whenever an undergrad is in the lab. Lab meeting: 2nd-floor office key from Gavin or Minnie; keep an agenda; conversation, not a lecture.",
+          "links": []
+        },
+        {
+          "id": "lm-field",
+          "title": "CROCUS and Nachusa logistics",
+          "branch": "Field",
+          "requires": [
+            "lm-unspoken"
+          ],
+          "description": "Nachusa: rent a vehicle with I-PASS, email Elizabeth Bach for a UTV, train everyone, minimum four people, required TNC video. CROCUS: data sheets, fieldwork prep protocol. UIC driver registration (John approves) before rentals; put the charge account in the comments. Mileage via Minnie, CC Gavin.",
+          "links": []
+        },
+        {
+          "id": "lm-money",
+          "title": "Timesheets, Chrome River, purchasing",
+          "branch": "Ops",
+          "requires": [
+            "shared-contacts"
+          ],
+          "description": "Hourly: biweekly Friday timesheets (apps.uillinois.edu), never more than 8 hours on one day. Salary: GoTime. Chrome River: Minnie and Edna as delegates. Buy through Lab Share, then iLab storeroom, then Minnie — not out of pocket with tax. Christmas week campus is closed.",
+          "links": [
+            {
+              "label": "iLab",
+              "url": "https://uic.ilab.agilent.com/landing/244"
+            },
+            {
+              "label": "Lab Share",
+              "url": "https://pspm.uic.edu/sustainability/the-green-campus/recycling-and-zero-waste/labshare/#labshare-store"
+            }
+          ]
+        },
+        {
+          "id": "lm-site",
+          "title": "Website, GitHub, pass it on",
+          "branch": "Ops",
+          "requires": [
+            "shared-github"
+          ],
+          "description": "Keep the Quarto site (this site) current. Manage McNicol-Lab GitHub membership. Update Lab Manager To-Knows for the next person in the role.",
+          "links": [
+            {
+              "label": "ecoϕlab site",
+              "url": "https://mcnicol-lab.github.io/ecophilab/"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

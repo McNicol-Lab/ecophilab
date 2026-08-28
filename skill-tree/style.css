@@ -1,0 +1,194 @@
+/* ecoϕlab skill tree — deep green trunk, ochre fruit, cream paper */
+.skill-tree-page, #st-root {
+  --st-green: #0c2220;
+  --st-green-mid: #163832;
+  --st-ochre: #c08a34;
+  --st-ochre-hot: #d5b267;
+  --st-cream: #f4eed8;
+  --st-rust: #994215;
+  --st-ink: #0c2220;
+  font-family: "Calibri", "Segoe UI", sans-serif;
+  color: var(--st-ink);
+}
+
+#st-root {
+  max-width: 1100px;
+  margin: 0 auto 3rem;
+}
+
+.st-gate, .st-app {
+  background: var(--st-cream);
+  border: 1px solid color-mix(in srgb, var(--st-green) 18%, transparent);
+  border-radius: 18px;
+  padding: 1.6rem 1.6rem 2rem;
+  box-shadow: 0 18px 40px color-mix(in srgb, var(--st-green) 12%, transparent);
+}
+
+.st-kicker {
+  letter-spacing: 0.14em;
+  text-transform: uppercase;
+  font-size: 0.72rem;
+  color: var(--st-ochre);
+  margin: 0 0 0.35rem;
+}
+
+.st-gate h2, .st-head h2 {
+  font-family: "Trebuchet MS", sans-serif;
+  color: var(--st-green);
+  margin: 0 0 0.5rem;
+}
+
+.st-gate p, .st-blurb, .st-note {
+  margin: 0 0 1rem;
+  line-height: 1.45;
+}
+
+.st-btn {
+  appearance: none;
+  border: 0;
+  border-radius: 999px;
+  padding: 0.55rem 1.15rem;
+  background: var(--st-green);
+  color: var(--st-cream);
+  font-weight: 600;
+  cursor: pointer;
+}
+.st-btn.ghost {
+  background: transparent;
+  color: var(--st-green);
+  border: 1px solid color-mix(in srgb, var(--st-green) 35%, transparent);
+}
+.st-btn:disabled { opacity: 0.45; cursor: not-allowed; }
+
+.st-head {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 0.75rem 1.25rem;
+  align-items: flex-start;
+  justify-content: space-between;
+  margin-bottom: 1.1rem;
+}
+.st-who {
+  display: flex;
+  gap: 0.6rem;
+  align-items: center;
+  font-size: 0.92rem;
+}
+.st-who img {
+  width: 32px; height: 32px; border-radius: 50%;
+}
+
+.st-roles {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 0.45rem;
+  margin: 0 0 1.15rem;
+}
+.st-role {
+  border: 1px solid color-mix(in srgb, var(--st-green) 25%, transparent);
+  background: white;
+  color: var(--st-green);
+  border-radius: 999px;
+  padding: 0.35rem 0.85rem;
+  cursor: pointer;
+  font-weight: 600;
+}
+.st-role[aria-pressed="true"] {
+  background: var(--st-green);
+  color: var(--st-cream);
+  border-color: var(--st-green);
+}
+
+.st-progress {
+  height: 8px;
+  background: color-mix(in srgb, var(--st-green) 12%, white);
+  border-radius: 99px;
+  overflow: hidden;
+  margin: 0.4rem 0 1.2rem;
+}
+.st-progress > span {
+  display: block;
+  height: 100%;
+  background: linear-gradient(90deg, var(--st-ochre), var(--st-ochre-hot));
+  width: 0%;
+  transition: width 0.35s ease;
+}
+
+.st-tree {
+  display: grid;
+  gap: 1.1rem;
+}
+.st-branch {
+  position: relative;
+  padding: 0.85rem 0.9rem 0.95rem 1.15rem;
+  background: white;
+  border-radius: 14px;
+  border-left: 6px solid var(--st-green);
+}
+.st-branch h3 {
+  font-family: "Trebuchet MS", sans-serif;
+  font-size: 1.05rem;
+  margin: 0 0 0.7rem;
+  color: var(--st-green);
+}
+.st-nodes {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 0.55rem;
+}
+.st-node {
+  --fill: transparent;
+  display: flex;
+  align-items: center;
+  gap: 0.45rem;
+  max-width: 100%;
+  text-align: left;
+  border: 1.5px solid color-mix(in srgb, var(--st-green) 22%, transparent);
+  background: var(--st-cream);
+  border-radius: 999px;
+  padding: 0.38rem 0.75rem 0.38rem 0.4rem;
+  cursor: pointer;
+  color: var(--st-green);
+}
+.st-node .dot {
+  width: 18px; height: 18px; flex: 0 0 18px;
+  border-radius: 50%;
+  border: 2px solid var(--st-ochre);
+  background: var(--fill);
+}
+.st-node.done {
+  --fill: var(--st-ochre);
+  border-color: var(--st-ochre);
+  background: color-mix(in srgb, var(--st-ochre) 14%, white);
+}
+.st-node.locked {
+  opacity: 0.55;
+}
+.st-node.active {
+  outline: 2px solid var(--st-green);
+  outline-offset: 2px;
+}
+
+.st-detail {
+  margin-top: 1.15rem;
+  padding: 1rem 1.1rem;
+  background: var(--st-green);
+  color: var(--st-cream);
+  border-radius: 14px;
+}
+.st-detail h3 {
+  font-family: "Trebuchet MS", sans-serif;
+  margin: 0 0 0.4rem;
+  color: var(--st-ochre-hot);
+}
+.st-detail a { color: var(--st-ochre-hot); }
+.st-detail .st-links { margin: 0.6rem 0 0.85rem; padding-left: 1.1rem; }
+.st-actions { display: flex; gap: 0.5rem; flex-wrap: wrap; }
+
+.st-note {
+  font-size: 0.88rem;
+  color: color-mix(in srgb, var(--st-green) 70%, gray);
+  margin-top: 1.2rem;
+}
+
+.st-error { color: var(--st-rust); }
