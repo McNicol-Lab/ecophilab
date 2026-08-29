@@ -4,85 +4,28 @@ editor: visual
 toc: true
 ---
 
-This page is the group's public record of people, field campaigns, grants, papers, data, and talks. Science essays live on [Projects](projects.html); bios live on [People](people.html). A fuller publication list is on [Google Scholar](https://scholar.google.com/citations?user=WXHy4H4AAAAJ&hl=en) and [ORCID](https://orcid.org/0000-0002-6655-8045).
-
-## People in the group
-
-Compact roster, not bios. Current names as of 2026. Full bios are on [People](people.html).
-
-**Principal investigator**
-
-- **Gavin McNicol** — PI; Assistant Professor, UIC Earth and Environmental Sciences (2021–present).
-
-**Lab manager**
-
-- **Jack Breiter** — Visiting Research Specialist and acting Lab Manager. In the lab June 2022–March 2024; returned January 2026.
-
-**Postdoctoral research associate**
-
-- **Jessica Murray** — postdoc; coastal temperate rainforest / yellow-cedar decline.
-
-**Graduate students**
-
-- **Junior Jules Francois** — PhD, started August 2021 (prairie and urban-agriculture greenhouse-gas fluxes).
-- **Michael Yonker** — PhD, started January 2022 (tallgrass prairie; NSF GRFP).
-- **Aaron MacDonald** — PhD (yellow-cedar; AY 2025–26).
-- **Jess Mulcrone** — graduate student.
-
-**Undergraduate assistants**
-
-- **Dylan Janowski**, **Anirudh Iyengar**, **Nicholas Fedchuk**, **Elena Ziyadeh-Flores**.
-
-**Seasonal**
-
-- **Casey Kramer** — Summer 2026 research assistant.
-
-**Alumni (M.S.)**
-
-- **Otto Briner**, M.S. EAES, August 2021–December 2023. First graduate of the lab; thesis on wet-prairie carbon and greenhouse-gas fluxes (defended August 2023).
-- **Jared Ceplo**, M.S. EAES, August 2022–May 2024.
-
-**Former M.S.**
-
-- **Carrie Gorman**, M.S., started August 2024 (former MS; no public graduation date).
-
-Former assistants and independent-study students have worked with the group since 2021, including Thomas Sanchez (lab manager, March–July 2024) and Ellie Wasilewski (lab manager from August 2024).
+Field campaigns, grants, papers, data, and talks. Theme essays are on [Projects](projects.html). Bios are on [People](people.html).
 
 ## Field
-
-Three campaign areas. Theme copy is on [Projects](projects.html).
 
 **Temperate rainforest geoecology.** Yellow-cedar decline plots on west Chichagof Island, Tongass National Forest (Sheet’ká Kwáan territory). 2026 eddy-covariance at S Douglas fen near Juneau (CSAT+7200; USFS). Jessica Murray and Aaron MacDonald.
 
 **Native and urban Chicagoland.** Nachusa Grasslands (Dixon, IL); UIC James Woodworth Prairie (JWP); Chicago CROCUS urban soils; Urban Growers Collective / PRL urban-agriculture GHG plots; Green Era Campus.
 
-**AI for natural methane.** FLUXNET-CH4 / UpCH4 synthesis; ATMOS / AmeriFlux site US-AMS (eddy-covariance methane; QA/QC passed 2026); ESIIL AI for Natural Methane working group.
+**AI for natural methane.** FLUXNET-CH4 / UpCH4 synthesis; ATMOS / AmeriFlux site US-AMS; ESIIL AI for Natural Methane working group.
 
 ## Grants
 
-Public awards only. Pending, rejected, and unconfirmed proposals are omitted. Amounts are as published.
-
-| Years | Role | Title | Agency | ID | Amount | Link |
-|---|---|---|---|---|---|---|
-| 2024–2027 | PI | Effects of Yellow Cypress Decline on Coastal Temperate Rainforest Climate Interactions | DOE BER ESS | | $999,554 | [ESS 2024 awards](https://ess.science.energy.gov/environmental-system-science-projects-awarded-2024/) |
-| 2026– | PI | Impact of ecohydrology on persistence and differentiation of declining yellow-cedar stands | USDA Forest Service | 26-JV-11261934-032 (UIC 127516) | | |
-| 2021–2025 | Co-PI | Prototyping a monitoring system of global wetland CH4 emissions with machine learning and satellite remote sensing | NASA CMS | NNH20ZDA001N | $87,000 | [CMS project](https://cce-datasharing.gsfc.nasa.gov/cmsprojects/list/h/0/?progID=5&projID=4317&projType=project) |
-| 2024–2027 | Co-PI | Building Equitable University-Community Geoscience Research Collaborations on Chicago’s South Side | NSF | 2326749 | $299,000 | [Award Search](https://www.nsf.gov/awardsearch/showAward?AWD_ID=2326749) |
-| 2022– | UIC participant | Community Research on Climate and Urban Science (CROCUS) | DOE Urban IFL (Argonne-led) | | Partnership $25 million / UIC ~$5 million | [UIC Today](https://today.uic.edu/uic-teams-with-argonne-partners-in-urban-climate-change-study/) |
-| 2022– | Working-group Co-PI | AI for Natural Methane: Harmonizing Natural Methane Datasets using Knowledge Guided Machine Learning | NSF ESIIL | parent 2153040 | | [ESIIL](https://esiil.org/working-groups/ai-natural-methane) |
-| 2022–2025 | PI | Friends of Nachusa Grasslands scientific research grants (four awards) | Friends of Nachusa Grasslands | | $25,923 | [2022](https://www.nachusagrasslands.org/science-grants-2022.html) · [2023](https://www.nachusagrasslands.org/science-grants-2023.html) · [2024](https://www.nachusagrasslands.org/science-grants-2024.html) · [2025](https://www.nachusagrasslands.org/science-grants-2025.html) |
-| 2022– | Student award (Yonker) | UIC Sustainability Fee (transparent photosynthesis chambers) | UIC | | $5,000 | |
-| 2014–2016 | Co-PI | DISSERTATION RESEARCH: Determining the drivers of annual methane emissions in temperate wetlands | NSF | 1405715 | $16,330 | [Award Search](https://www.nsf.gov/awardsearch/showAward?AWD_ID=1405715&HistoricalAwards=false) |
-
-Notes:
-
-- NASA CMS: UIC Co-PI with student RA Otto Briner. Public CMS listing is 2021–2025; the lab funding sheet treats operations as Fall 2021–Summer 2024.
-- NSF 2326749: PI Max Berkelhammer; Co-PIs Gavin McNicol, Jennifer Brier, and Erika Allen (Urban Growers Collective). Amount is the NOA obligated total ($299,000).
-- CROCUS: McNicol is a UIC faculty participant in an Argonne-led urban IFL. The $25 million / ~$5 million figures are partnership and UIC totals, not a McNicol PI award.
-- ESIIL AI4NM: McNicol is a working-group Co-PI. Parent NSF award 2153040 is ESIIL at CU Boulder; McNicol is not an investigator on that award.
-- Nachusa year-by-year: 2022 $6,022; 2023 $8,000; 2024 $7,393; 2025 $4,508.
-- DOE ESS yellow-cedar is a UIC PI award. No public federal DE-SC number is listed here.
-- USFS joint venture 26-JV-11261934-032 was awarded August 2026 (OVCR notice). Amount is not listed on the public page.
+| Years | Role | Title | Agency | ID | Link |
+|---|---|---|---|---|---|
+| 2024–2027 | PI | Effects of Yellow Cypress Decline on Coastal Temperate Rainforest Climate Interactions | DOE BER ESS | | [ESS 2024 awards](https://ess.science.energy.gov/environmental-system-science-projects-awarded-2024/) |
+| 2026– | PI | Impact of ecohydrology on persistence and differentiation of declining yellow-cedar stands | USDA Forest Service | 26-JV-11261934-032 | |
+| 2021–2025 | Co-PI | Prototyping a monitoring system of global wetland CH4 emissions with machine learning and satellite remote sensing | NASA CMS | NNH20ZDA001N | [CMS project](https://cce-datasharing.gsfc.nasa.gov/cmsprojects/list/h/0/?progID=5&projID=4317&projType=project) |
+| 2024–2027 | Co-PI | Building Equitable University-Community Geoscience Research Collaborations on Chicago’s South Side | NSF | 2326749 | [Award Search](https://www.nsf.gov/awardsearch/showAward?AWD_ID=2326749) |
+| 2022– | UIC participant | Community Research on Climate and Urban Science (CROCUS) | DOE Urban IFL (Argonne-led) | | [UIC Today](https://today.uic.edu/uic-teams-with-argonne-partners-in-urban-climate-change-study/) |
+| 2022– | Working-group Co-PI | AI for Natural Methane: Harmonizing Natural Methane Datasets using Knowledge Guided Machine Learning | NSF ESIIL | | [ESIIL](https://esiil.org/working-groups/ai-natural-methane) |
+| 2022–2025 | PI | Friends of Nachusa Grasslands scientific research grants | Friends of Nachusa Grasslands | | [2022](https://www.nachusagrasslands.org/science-grants-2022.html) · [2023](https://www.nachusagrasslands.org/science-grants-2023.html) · [2024](https://www.nachusagrasslands.org/science-grants-2024.html) · [2025](https://www.nachusagrasslands.org/science-grants-2025.html) |
+| 2022– | Student award (Yonker) | UIC Sustainability Fee (transparent photosynthesis chambers) | UIC | | |
 
 ## Awards
 
@@ -95,7 +38,7 @@ Notes:
 
 ## Papers
 
-Selected publications from the [UIC EaES faculty profile](https://eaes.uic.edu/profiles/mcnicol-gavin/), grouped to match Projects. First-author pillars include the UpCH4 upscaling (2023), the North Pacific rainforest soil-carbon map (2019), the *Nature Climate Change* sanitation study (2020), and the restored-wetland flux paper (2017). 2026 papers with DOIs are listed with the matching theme. Everything else is on [Google Scholar](https://scholar.google.com/citations?user=WXHy4H4AAAAJ&hl=en).
+Grouped with the [Projects](projects.html) themes. Full list on [Google Scholar](https://scholar.google.com/citations?user=WXHy4H4AAAAJ&hl=en) and [ORCID](https://orcid.org/0000-0002-6655-8045).
 
 ### Wetland methane
 
@@ -120,18 +63,20 @@ Selected publications from the [UIC EaES faculty profile](https://eaes.uic.edu/p
 - McNicol, G., Jeliazovski, J., François, J. J., Kramer, S., & Ryals, R. (2020). Climate change mitigation potential in sanitation via off-site composting of human waste. *Nature Climate Change* 10: 545–549. [doi:10.1038/s41558-020-0782-4](https://doi.org/10.1038/s41558-020-0782-4)
 - Lee, J., Berkelhammer, M., Vincent, A. E. S., Grover, M., Cho, A., Packman, A. I., Kaludi, B., Gonzalez-Meler, M., & McNicol, G. (2026). Quality assessment and control of urban environmental sensors using physical thresholding and machine learning-based probabilities. *Big Earth Data*. [doi:10.1080/20964471.2026.2623720](https://doi.org/10.1080/20964471.2026.2623720)
 
+### In review
+
+- McNicol, G., Yonker, M., & Breiter, J. 2022 Nachusa greenhouse-gas flux and microbial survey. *Frontiers in Environmental Science*.
+
 ## Data
 
 - **UpCH4 v1.0** — monthly gridded freshwater wetland CH4, 2001–2018. ORNL DAAC [10.3334/ORNLDAAC/2253](https://doi.org/10.3334/ORNLDAAC/2253). Also listed on [NASA Open Data](https://data.nasa.gov/dataset/global-wetland-methane-emissions-derived-from-fluxnet-and-the-upch4-model-2001-2018-c7437).
 - **FLUXNET-CH4** — global multi-ecosystem methane flux dataset ([Delwiche et al. 2021](https://doi.org/10.5194/essd-13-3607-2021)).
 - **ISRaD** — International Soil Radiocarbon Database v1.0 ([Lawrence et al. 2020](https://doi.org/10.5194/essd-12-61-2020)).
-- **AI4NM** — [CyVerse dataset](https://dc.cyverse.org/dataset/ai_for_natural_methane_harmonizing_natural_methane_datasets_using_knowledge_guided_machine_learning) for the ESIIL working group (parent NSF 2153040).
-- **AmeriFlux US-AMS** — half-hourly gap-filled methane/energy fluxes (QA/QC passed 2026).
-- **Nachusa microbes** — NCBI BioSample accessions beginning `SAMN61436570` (2026).
+- **AI4NM** — [CyVerse dataset](https://dc.cyverse.org/dataset/ai_for_natural_methane_harmonizing_natural_methane_datasets_using_knowledge_guided_machine_learning).
+- **AmeriFlux US-AMS** — half-hourly gap-filled methane and energy fluxes.
+- **Nachusa microbes** — NCBI BioSample accessions beginning `SAMN61436570`.
 
 ## Talks and meetings
-
-Sourced items only.
 
 - McNicol, G. Designing FLUXNET-CH4 2.0: Methane flux data and community to advance global methane cycle science. Invited keynote, AsiaFlux 2022, 20 September 2022.
 - Briner, O., & McNicol, G. Supporting inclusive growth of methane flux data and community in AsiaFlux. Poster, AsiaFlux 2022, 22 September 2022.
@@ -152,17 +97,9 @@ Sourced items only.
 - Francois, J., et al. Equitable urban community research to quantify crop yield and biogeochemical benefits of soil organic amendments. Invited oral, ESA 2026, Salt Lake City, 28 July 2026 (session *Justice and Equity in Ecology*).
 - McNicol, G. Invited plenary on methane fluxes. AmeriFlux Annual Meeting 2026, Berkeley, CA, 9–11 September 2026.
 
-### In review
-
-- McNicol, G., Yonker, M., & Breiter, J. 2022 Nachusa greenhouse-gas flux and microbial survey. Under review at *Frontiers in Environmental Science* (first lab paper from the 2022 Nachusa campaign).
-
 ## News
 
 - [UIC teams with Argonne, partners in urban climate change study](https://today.uic.edu/uic-teams-with-argonne-partners-in-urban-climate-change-study/) — UIC Today on CROCUS (30 September 2022).
 - [What climate-driven changes await coastal temperate rainforest ecosystems?](https://today.uic.edu/what-climate-driven-changes-await-coastal-temperate-rainforest-ecosystems/) — UIC Today on the *BioScience* rainforest synthesis.
 - [EaES receives NSF grant](https://eaes.uic.edu/news-stories/eaes-receives-national-science-foundation-nsf-grant-building-equitable-university-community-geoscience-research-collaborations-on-chicagos-south-side/) — CTGC (award 2326749).
 - [Max B. Berkelhammer receives NSF grant](https://las.uic.edu/news-stories/max-b-berkelhammer-associate-professor-at-eaes-receives-national-science-foundation-nsf-grant/) — LAS on the same CTGC award.
-
----
-
-Compiled from public records and lab sources. Not a complete CV.
