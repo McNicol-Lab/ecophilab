@@ -29,28 +29,35 @@ Field campaigns, grants, papers, data, and talks. Theme essays are on [Projects]
 
 ## Awards
 
-- **Otto Briner** — AsiaFlux 2022 Best Poster, 2nd place (“Supporting inclusive growth of methane flux data and community in AsiaFlux”).
-- **Otto Briner** — AGU Michael H. Freilich Student Visualization Grand Prize, December 2022 (NASA Hyperwall talk “UpCH4: Global Freshwater Wetland Emissions,” 14 December 2022).
-- **Michael Yonker** — NSF Graduate Research Fellowship.
+- **Aaron MacDonald** — NSF Graduate Research Fellowship Program Honorable Mention, 2026.
 - **Jessica Murray** — UIC Postdoc Travel Award, 2026.
 - **Nicholas Fedchuk** — UIC Honors College Research Grant, Spring 2026.
 - **Junior Jules Francois** — Jean Bogner Travel Fund, 2026.
+- **Gavin McNicol** — UIC Open Textbook Faculty Incentive Program, 2025 ([EAES 480 Statistical Methods in Earth and Environmental Sciences](https://today.uic.edu/faculty-awardees-named-for-2024-25-free-open-textbook-incentive-program/)).
+- **Michael Yonker** — NSF Graduate Research Fellowship.
+- **Gavin McNicol** — UIC Open Textbook Faculty Incentive Program, 2022 ([EaES 494 Statistical Methods in EaES](https://today.uic.edu/announcing-the-2021-awardees-of-the-open-textbook-faculty-incentive-program/)).
+- **Otto Briner** — AsiaFlux 2022 Best Poster, 2nd place (“Supporting inclusive growth of methane flux data and community in AsiaFlux”).
+- **Otto Briner** — AGU Michael H. Freilich Student Visualization Grand Prize, December 2022 (NASA Hyperwall talk “UpCH4: Global Freshwater Wetland Emissions,” 14 December 2022).
 
 ## Papers
 
-Grouped with the [Projects](projects.html) themes. Full list on [Google Scholar](https://scholar.google.com/citations?user=WXHy4H4AAAAJ&hl=en) and [ORCID](https://orcid.org/0000-0002-6655-8045).
+Grouped with the [Projects](projects.html) themes, newest first. Full list on [Google Scholar](https://scholar.google.com/citations?user=WXHy4H4AAAAJ&hl=en) and [ORCID](https://orcid.org/0000-0002-6655-8045).
+
+### In review
+
+- McNicol, G., Yonker, M., & Breiter, J. 2022 Nachusa greenhouse-gas flux and microbial survey. *Frontiers in Environmental Science*.
 
 ### Wetland methane
 
+- Oh, Y., et al., including McNicol, G. (2026). Revising the magnitude and trends of the global methane soil sink with process-based, machine-learning approaches. *Journal of Geophysical Research: Biogeosciences*. [doi:10.1029/2025JG009668](https://doi.org/10.1029/2025JG009668)
+- Li, F., Zhu, Q., Liu, L., et al., including McNicol, G. (2026). Multi-decadal dynamics of wetland methane emissions revealed by knowledge-guided machine learning. *Global Change Biology*. [doi:10.1111/gcb.70899](https://doi.org/10.1111/gcb.70899)
+- Määttä, T., Desai, A. R., Ueyama, M., et al., including McNicol, G. (2026). A cross-site comparison of ecosystem- and plot-scale methane fluxes across multiple timescales. *Biogeosciences* 23: 4379–4445. [bg.copernicus.org](https://bg.copernicus.org/articles/23/4379/2026/)
 - McNicol, G., et al. (2023). Upscaling wetland methane emissions from the FLUXNET-CH4 eddy covariance network (UpCH4 v1.0): Model development, network assessment, and budget comparison. *AGU Advances*. [doi:10.1029/2023AV000956](https://doi.org/10.1029/2023AV000956)
 - Delwiche, K. B., Knox, S. H., Malhotra, A., Fluet-Chouinard, E., McNicol, G., et al. (2021). FLUXNET-CH4: A global, multi-ecosystem dataset and analysis of methane seasonality from freshwater wetlands. *Earth System Science Data*. [doi:10.5194/essd-13-3607-2021](https://doi.org/10.5194/essd-13-3607-2021)
 - Knox, S. H., Bansal, S., McNicol, G., et al. (2021). Identifying dominant environmental predictors of freshwater wetland methane fluxes across diurnal to seasonal time scales. *Global Change Biology*. [doi:10.1111/gcb.15661](https://doi.org/10.1111/gcb.15661)
 - McNicol, G., Knox, S., Guilderson, T., Baldocchi, D. D., & Silver, W. L. (2020). Where old meets new: An ecosystem study of methanogenesis in a reflooded agricultural peatland. *Global Change Biology*. [doi:10.1111/gcb.14916](https://doi.org/10.1111/gcb.14916)
 - Yang, W. H., McNicol, G., Teh, Y. A., Estera, K., Wood, T. E., & Silver, W. L. (2017). Evaluating the classical versus an emerging conceptual model of peatland methane dynamics. *Global Biogeochemical Cycles*. [doi:10.1002/2017GB005622](https://doi.org/10.1002/2017GB005622)
 - McNicol, G., Sturtevant, C., Knox, S., Dronova, I., Baldocchi, D. D., & Silver, W. L. (2017). Effects of seasonality, transport pathway, and spatial structure on greenhouse gas fluxes in a restored wetland. *Global Change Biology*. [doi:10.1111/gcb.13580](https://doi.org/10.1111/gcb.13580)
-- Oh, Y., et al., including McNicol, G. (2026). Revising the magnitude and trends of the global methane soil sink with process-based, machine-learning approaches. *Journal of Geophysical Research: Biogeosciences*. [doi:10.1029/2025JG009668](https://doi.org/10.1029/2025JG009668)
-- Li, F., Zhu, Q., Liu, L., et al., including McNicol, G. (2026). Multi-decadal dynamics of wetland methane emissions revealed by knowledge-guided machine learning. *Global Change Biology*. [doi:10.1111/gcb.70899](https://doi.org/10.1111/gcb.70899)
-- Määttä, T., Desai, A. R., Ueyama, M., et al., including McNicol, G. (2026). A cross-site comparison of ecosystem- and plot-scale methane fluxes across multiple timescales. *Biogeosciences* 23: 4379–4445. [bg.copernicus.org](https://bg.copernicus.org/articles/23/4379/2026/)
 
 ### Rainforest carbon
 
@@ -60,12 +67,8 @@ Grouped with the [Projects](projects.html) themes. Full list on [Google Scholar]
 
 ### Sanitation and cities
 
-- McNicol, G., Jeliazovski, J., François, J. J., Kramer, S., & Ryals, R. (2020). Climate change mitigation potential in sanitation via off-site composting of human waste. *Nature Climate Change* 10: 545–549. [doi:10.1038/s41558-020-0782-4](https://doi.org/10.1038/s41558-020-0782-4)
 - Lee, J., Berkelhammer, M., Vincent, A. E. S., Grover, M., Cho, A., Packman, A. I., Kaludi, B., Gonzalez-Meler, M., & McNicol, G. (2026). Quality assessment and control of urban environmental sensors using physical thresholding and machine learning-based probabilities. *Big Earth Data*. [doi:10.1080/20964471.2026.2623720](https://doi.org/10.1080/20964471.2026.2623720)
-
-### In review
-
-- McNicol, G., Yonker, M., & Breiter, J. 2022 Nachusa greenhouse-gas flux and microbial survey. *Frontiers in Environmental Science*.
+- McNicol, G., Jeliazovski, J., François, J. J., Kramer, S., & Ryals, R. (2020). Climate change mitigation potential in sanitation via off-site composting of human waste. *Nature Climate Change* 10: 545–549. [doi:10.1038/s41558-020-0782-4](https://doi.org/10.1038/s41558-020-0782-4)
 
 ## Data
 
@@ -94,7 +97,8 @@ Grouped with the [Projects](projects.html) themes. Full list on [Google Scholar]
 - Ee, J. S. (Ivan), & Williams, M. An urban soil survey to map soil texture and drainage properties across Chicago. AGU 2024, 12 December 2024.
 - Francois, J. Effects of micro-topographic zones on soil greenhouse gas fluxes and depth profile properties in a remnant tall grass prairie. AGU 2024, 12 December 2024.
 - McNicol, G. Session chair, B51D Methane Emission Feedbacks from Natural Systems: Reducing Uncertainties from the Tropics to the Poles I Oral. AGU 2024, 13 December 2024.
-- Francois, J., et al. Equitable urban community research to quantify crop yield and biogeochemical benefits of soil organic amendments. Invited oral, ESA 2026, Salt Lake City, 28 July 2026 (session *Justice and Equity in Ecology*).
+- Francois, J. J., Allen, E., Lov, B., McNicol, G., Berkelhammer, M., & Brier, J. Equitable urban community research to quantify crop yield and biogeochemical benefits of soil organic amendments. Invited oral, ESA 2026 OOS 14, Salt Lake City, 28 July 2026 (session *Justice and Equity in Ecology: Envisioning a More Just Ecological Future*).
+- McNicol, G., Chen, S., Liu, L., Malone, S., Malhotra, A., Rozmiarek, K., Oh, Y., Zheng, J., Zhu, Q., and the ESIIL AI for Natural Methane Working Group. Road-mapping and enabling ecosystem to planetary scale methane science and models. Organized oral, ESA 2026 OOS 12, Salt Lake City, 28 July 2026 (session *Environmental Data Science Advances from ESIIL Working Groups*).
 - McNicol, G. Invited plenary on methane fluxes. AmeriFlux Annual Meeting 2026, Berkeley, CA, 9–11 September 2026.
 
 ## News
