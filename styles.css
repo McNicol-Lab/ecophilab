@@ -2,13 +2,13 @@
 
 :root {
   /* Primary Colors */
-  --bs-primary: #0c2220;      /* Deep green */
-  --bs-secondary: #c08a34;    /* Golden ochre */
+  --bs-primary: #0c2220; /* Deep green */
+  --bs-secondary: #c08a34; /* Golden ochre */
 
   /* Optional Bootstrap overrides */
-  --bs-success: #994215;      /* Deep rust (complementary) */
-  --bs-info: #f4eed8;         /* Soft cream */
-  --bs-warning: #d5b267;      /* Warm tan */
+  --bs-success: #994215; /* Deep rust (complementary) */
+  --bs-info: #f4eed8; /* Soft cream */
+  --bs-warning: #d5b267; /* Warm tan */
 
   /* Fonts */
   --bs-font-sans-serif: "Calibri", sans-serif;
@@ -31,7 +31,45 @@ h1, h2, h3, h4, h5, h6 {
 
 footer {
   background-color: #f4eed8; /* soft cream */
-  color: #0c2220;            /* dark green */
+  color: #0c2220; /* dark green */
   font-family: "Calibri", sans-serif;
   padding: 1rem 0;
+}
+
+
+/* Science quotes page */
+.science-quote {
+  margin: 1.75rem 0;
+  padding: 1rem 1.25rem;
+  border-left: 4px solid #c08a34;
+  background-color: rgba(244, 238, 216, 0.45);
+  border-radius: 0 0.35rem 0.35rem 0;
+}
+
+.science-quote blockquote {
+  margin: 0;
+  border: none;
+  padding: 0;
+  font-size: 1.05rem;
+  color: #0c2220;
+}
+
+.quote-attribution {
+  margin-top: 0.75rem;
+  font-size: 0.95rem;
+  color: #0c2220;
+  opacity: 0.85;
+  font-style: italic;
+}
+
+.quote-verse {
+  margin: 0.5rem 0 0;
+  padding: 0;
+  background: transparent;
+  border: none;
+  font-family: "Trebuchet MS", Georgia, serif;
+  font-size: 1.05rem;
+  line-height: 1.45;
+  white-space: pre-wrap;
+  color: #0c2220;
 }
