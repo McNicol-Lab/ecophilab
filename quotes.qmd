@@ -1,1 +1,245 @@
-PLACEHOLDER
+---
+title: "Quotes"
+editor: visual
+toc: true
+---
+
+## Quote Science
+
+Some ideas are powerful enough to change the way we think about the world, but our articulation of them often falls short. Sometimes interesting scientific or philosophical ideas get a fair treatment by a great writer and are captured in a few pithy sentences. Here are some of my favorite examples I've come across in textbooks, literature, newspapers, or public addresses, over the last few years. Enjoy!
+
+::: {.science-quote}
+> The freedoms that allow bigots to bait minorities, are also the freedoms that allow religious minorities to practice their faith freely. By eroding the protections for free expression, no one is more than a political majority away from becoming the targets, rather than the beneficiaries, of laws against hatred and offense, and history tells us that minorities will be first in line when political whims change for more repressive ones.
+
+::: {.quote-attribution}
+— Jacob Mchangama · Keynote on Free Expression 2018, OSCE
+:::
+:::
+
+::: {.science-quote}
+> How, then, can we know? Other than by proving mathematical theorems, which are not about the material world, the answer is the process that the philosopher Karl Popper called conjecture and refutation. We come up with ideas about the nature of reality, and test them against that reality, allowing the world to falsify the mistaken ones. The "conjecture" part of this formula, of course, depends upon the exercise of free speech. We offer these conjectures without any prior assurance they are correct. It is only by bruiting ideas and seeing which ones withstand attempts to refute them that we acquire knowledge.
+
+::: {.quote-attribution}
+— Steven Pinker · Why free speech is fundamental, 2015, *The Boston Globe*
+:::
+:::
+
+::: {.science-quote}
+> When we build a bridge, we build it to withstand much stronger pressures than it is ever likely to confront. And yet, when it comes to protecting the global atmosphere… the attitude seems to be equivalent to demanding certainty that the bridge will collapse as a justification for strengthening it. If we are to err in designing measures to protect the ozone layer, then let us, conscious of our responsibility to future generations, err on the side of caution.
+
+::: {.quote-attribution}
+— Richard Benedick · Address preceding 1987 Montreal Protocol Meeting
+:::
+:::
+
+::: {.science-quote}
+> …constrained perspectivism is both a prescription for, and description of, how ecology is done. On one hand, we assert that ecologists adopt their perspectives while being largely unaware of what operational heuristics are in place, much like a nation persists without its citizens understanding their constitution. On the other hand, we believe that ecology would better progress if its "citizens" (and leaders) understood the formal structure of the philosophy underlying these heuristics.
+
+::: {.quote-attribution}
+— Jeffrey Lockwood & William Reiners · *Philosophical Foundations of Ecology*
+:::
+:::
+
+::: {.science-quote}
+**Entisol**
+
+```{=html}
+<pre class="quote-verse">First breaths,
+first steps
+of a baby.
+A summer's
+leaves sully
+the floodplain
+surface,
+grasses rise
+from lava
+whose heart
+still cools,
+lichens grasp
+grit and rock.
+Behold!
+Soil!</pre>
+```
+
+::: {.quote-attribution}
+— Justine and Jan Owen · 2015, *Twelve Orders/Twelve Verses*
+:::
+:::
+
+::: {.science-quote}
+> …the spectacular success of modern physics, which is based upon concepts such as Feynman's that clash with every day experience, has shown that… the naive view of reality is therefore not compatible with modern physics.
+
+> To deal with such paradoxes we shall adopt an approach called model-dependent realism. It is based on the idea that our brains interpret input from our sensory organs by making a model of the world. When such a model is successful at explaining events, we tend to attribute to it… the quality of reality or absolute truth. But there may be different ways in which one could model the same physical situation… If two such physical theories or models accurately predict the same events, one cannot be said to be more real than the other; rather, we are free to use whichever model is most convenient.
+
+::: {.quote-attribution}
+— Stephen Hawking · *The Grand Design*
+:::
+:::
+
+::: {.science-quote}
+> People think they understand things because they become familiar with them. This is only superficial knowledge. It is the knowledge of the astronomer who knows the names of the stars, the botanist who knows the classification of the leaves and flowers, the artist who knows the aesthetics of green and red. This is not to know nature itself—the earth and sky, green and red. Astronomer, botanist, and artist have done no more than grasp impressions and interpret them, each within the vault of his own mind. The more involved they become with the activity of the intellect, the more they set themselves apart and the more difficult it becomes to live naturally.
+
+::: {.quote-attribution}
+— Masanobu Fukuoka · *The One-Straw Revolution: An Introduction to Natural Farming*
+:::
+:::
+
+::: {.science-quote}
+> Great interest and vast importance are commanded by the position of pedology in relation to human enterprises and to the social sciences in particular. Aside from the role of soil science in the pursuit of the technical phases of agriculture, the significance of soils in influencing social structures, settlement policies, economic questions, etc. is receiving increased recognition.
+
+::: {.quote-attribution}
+— Hans Jenny · *The Factors of Soil Formation*
+:::
+:::
+
+::: {.science-quote}
+> Curiosity rises above the organic and the social planes and becomes intellectual in the degree in which it is transformed into interest in problems provoked by the observation of things and the accumulation of material… To the open mind, nature and social experience are full of varied and subtle challenges to look further. If germinating powers are not used and cultivated at the right moment, they tend to be transitory, to die out, or to wane in intensity.
+
+::: {.quote-attribution}
+— John Dewey · *The Problem of Training Thought*
+:::
+:::
+
+::: {.science-quote}
+> How long will the Earth be hospitable to life? Barring some unforeseen catastrophe, we can speculate that the biosphere will persist as long as our planet harbors liquid water on its surface. Eventually, however, a gradual increase in the Sun's luminosity will warm the Earth, causing a photolytic loss of water from the upper atmosphere, irreversible oxidation of the Earth's surface, and the demise of life—perhaps after another 2.5 billion years… If we manage the planet well, studies of biogeochemistry have a long future.
+
+::: {.quote-attribution}
+— William H. Schlesinger · *Biogeochemistry: Analysis of Global Change*
+:::
+:::
+
+::: {.science-quote}
+> Thus, life is set almost entirely apart from other phenomena in regards to the energetics in the Universe, in diminishing and never increasing its entropy… Life creates, through the evolutionary process, forms which are increasingly lacking in symmetry. Finally, the intelligence of man begins to manifest itself today in the process of the biosphere… and changes the established geological processes in a radical manner.
+
+::: {.quote-attribution}
+— Vladimir I. Vernadsky · *The Study of Life and the New Physics*
+:::
+:::
+
+::: {.science-quote}
+> In the aboriginal Tlingit economy, food was the dominant project in terms not only of time allocation, but also ideology… Specific foods are harvested and processed at specific times of the year depending on abundance, distribution, accessibility, and need… However, it is important to note that each village's seasonal round – indeed that of every house group – varied to a degree as a result of micro-ecological differences affecting the factors listed above.
+
+::: {.quote-attribution}
+— Thomas F. Thornton · *Being and Place among the Tlingit*
+:::
+:::
+
+::: {.science-quote}
+> Buffon in his earlier life was much interested in forestry, and in 1742 he noted that poplars precede oaks and beeches… Biberg, a student of the great Linnaeus, published his thesis in 1749, and in this he described the gradual development of vegetation on bare rocks… The seeds of Buffon and Biberg fell on sterile soil; in France it was observed that Buffon was trespassing on theological grounds, and he was obliged to recant any views which implied that the world was not made in the beginning once for all…
+
+::: {.quote-attribution}
+— Henry C. Cowles · *The Causes of Vegetative Cycles*
+:::
+:::
+
+::: {.science-quote}
+> Views of soil fertility are changing once again as we begin to accept that it depends on soil biology as much as soil chemistry and physics… Now that we know the critical role of soil life, we can see the necessity of viewing soils rich in organic matter as an essential part of nature's grand cycle of growth and decay.
+
+::: {.quote-attribution}
+— David R. Montgomery · *Growing a Revolution*
+:::
+:::
+
+::: {.science-quote}
+> All men of sound reason are disgusted with verbal disputes, which abound so much in philosophical and theological inquiries; and it is found that the only remedy for this abuse must arise from clear definitions, from the precision of those ideas which enter into any argument, and from the strict and uniform use of those terms which are employed.
+
+::: {.quote-attribution}
+— David Hume · *Dialogues Concerning Natural Religion*
+:::
+:::
+
+::: {.science-quote}
+> The religious feeling engendered by experiencing the logical comprehensibility of profound interrelations is of a somewhat different sort from the feeling that one usually calls religious. It is more a feeling of awe at the scheme that is manifest in the material universe. It does not lead us to take the step of fashioning a god-like being in our own image – a personage who makes demands of us and who takes an interest in us as individuals. There is in this neither a will nor a goal, nor a must, but only sheer being.
+
+::: {.quote-attribution}
+— Rebecca Newberger Goldstein · *Betraying Spinoza*
+:::
+:::
+
+::: {.science-quote}
+> The whole method of science… is to isolate systems mentally for the purposes of study… Actually the systems we isolate are not only included as part of larger ones, but they also overlap, interlock, and interact with one another.
+
+::: {.quote-attribution}
+— Arthur Tansley · On Ecosystems
+:::
+:::
+
+::: {.science-quote}
+> The acknowledgement 'I don't know' comes finally not as a failure or disgrace but as release. Against critics who might think his call to doubt is a refusal to investigate the world, Batchelor cites Thomas Huxley, saying that agnosticism was about the testing of ideas, not the rejection of all knowledge. Batchelor writes that this agnosticism also describes the Buddha: the program was pragmatic and falsifiable.
+
+::: {.quote-attribution}
+— Jennifer Michael Hecht · *Doubt: A History*
+:::
+:::
+
+::: {.science-quote}
+> Action is at the heart of ideas. The experimental practice of knowing, when taken to supply the pattern of philosophic doctrine of mind and its organs, eliminates the age-old separation of theory and practice. It discloses that knowing is itself a kind of action, the only one which progressively and securely clothes natural existence with realized meanings.
+
+::: {.quote-attribution}
+— John Dewey · 1859–1952
+:::
+:::
+
+::: {.science-quote}
+> A general theory of complex systems must necessarily be abstract. For example, a theory of life, in principle, must be able to describe all possible scenarios for evolution. It should be able to describe the mechanisms of life on Mars, if life were to occur. This is an extremely precarious step. Any general model we might construct cannot have any specific reference to actual species. The model may, perhaps, not even refer to basic chemical processes, or to the DNA molecules that are integral parts of any life form that we know… We must learn to free ourselves from seeing things the way they are! A radical scientific view, indeed!
+
+::: {.quote-attribution}
+— Per Bak · *How Nature Works*
+:::
+:::
+
+::: {.science-quote}
+> Whatever may be the equation for men and land, it is improbable that we as yet know all its terms. Recent discoveries in mineral and vitamin nutrition reveal unsuspected dependencies in the up-circuit: incredibly minute quantities of certain substances determine the value of soils to plants, of plants to animals. What of the down-circuit? What of the vanishing species, the preservation of which we now regard as an esthetic luxury? They helped build the soil; in what unsuspected ways may they be essential to its maintenance?
+
+::: {.quote-attribution}
+— Aldo Leopold · 1887–1948
+:::
+:::
+
+::: {.science-quote}
+> Years ago I used to worry about the degree to which I had specialized… my studies involved only the rods and cones of the retina, and in them only the visual pigments. A sadly limited peripheral business, fit for escapists. But it is as though this were a very narrow window through which at a distance one can see only a crack of light. As one comes closer the view grows wider and wider, until finally through this same narrow window one is looking at the universe.
+
+::: {.quote-attribution}
+— George Wald · *Light and Life*
+:::
+:::
+
+::: {.science-quote}
+> Scientific theories serve to facilitate the survey of our observations and experimental findings…after a reasonably coherent theory has been formed, they do not describe the bare facts they have found or wish to convey to the reader, but clothe them in a terminology of that theory or theories. This procedure, while very useful for remembering the facts in a well-ordered pattern, tends to obliterate the distinction between the actual observations and the theory arisen from them. And since the former always are of some sensual quality, theories are easily thought to account for sensual qualities; which, of course, they never do.
+
+::: {.quote-attribution}
+— Erwin Schrödinger · *What is Life?*
+:::
+:::
+
+::: {.science-quote}
+> Biology has the power to sustain, to draw out, its environmental conditions and indeed to remake them in an improbable path… Most microbial processes move enormous numbers of traveling chemical species on cog ways up and down thermodynamic peaks and valleys with only small extra inputs of externally sourced energy… Thus, biology creates local order, primarily by using the high quality of sun-given energy, to exploit and create redox contrast between the surface of the Earth and its interior.
+
+::: {.quote-attribution}
+— Euan Nisbet & Mary Fowler · *Treatise on Geochemistry: Biogeochemistry*
+:::
+:::
+
+::: {.science-quote}
+> Even if the open windows of science at first make us shiver after the cozy indoor warmth of traditional humanizing myths, in the end the fresh air brings vigor, and the great spaces have a splendor of their own.
+
+::: {.quote-attribution}
+— Bertrand Russell · 1872–1970
+:::
+:::
+
+::: {.science-quote}
+> One of the more regretful trends I see in modern society is our current retreat from reason into emotionalism as a way out of problems. We are raising up generations who want to rely on their feelings rather than their intellects – that can only lead to social chaos. Such people are also susceptible to all sorts of ridiculous advertising propaganda and pseudoscientific theories. If I'm remembered at all, I hope it is as the person who took the witchcraft out of composting and replaced it with rationality.
+
+::: {.quote-attribution}
+— Clarence Golueke · 1911–2004
+:::
+:::
+
+::: {.science-quote}
+> If, in our haste to 'progress,' the economics of ecology are disregarded by citizens and policy makers alike, the result will be an ugly America. We cannot afford an America where expedience tramples upon esthetics and development decisions are made with an eye only on the present.
+
+::: {.quote-attribution}
+— Stewart Udall · 1920–2010
+:::
+:::
