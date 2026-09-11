@@ -22,6 +22,8 @@ website:
         href: contact.qmd
       - text: About
         href: about.qmd
+      - text: Quotes
+        href: quotes.qmd
         
   page-footer:
     left: "© 2025 ecoφlab at UIC"
