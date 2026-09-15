@@ -9,14 +9,6 @@ toc: true
 Some ideas are powerful enough to change the way we think about the world, but our articulation of them often falls short. Sometimes interesting scientific or philosophical ideas get a fair treatment by a great writer and are captured in a few pithy sentences. Here are some of my favorite examples I've come across in textbooks, literature, newspapers, or public addresses, over the last few years. Enjoy!
 
 ::: {.science-quote}
-> The freedoms that allow bigots to bait minorities, are also the freedoms that allow religious minorities to practice their faith freely. By eroding the protections for free expression, no one is more than a political majority away from becoming the targets, rather than the beneficiaries, of laws against hatred and offense, and history tells us that minorities will be first in line when political whims change for more repressive ones.
-
-::: {.quote-attribution}
-— Jacob Mchangama · Keynote on Free Expression 2018, OSCE
-:::
-:::
-
-::: {.science-quote}
 > How, then, can we know? Other than by proving mathematical theorems, which are not about the material world, the answer is the process that the philosopher Karl Popper called conjecture and refutation. We come up with ideas about the nature of reality, and test them against that reality, allowing the world to falsify the mistaken ones. The "conjecture" part of this formula, of course, depends upon the exercise of free speech. We offer these conjectures without any prior assurance they are correct. It is only by bruiting ideas and seeing which ones withstand attempts to refute them that we acquire knowledge.
 
 ::: {.quote-attribution}
