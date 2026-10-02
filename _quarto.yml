@@ -2,6 +2,7 @@ project:
   type: website
   resources:
     - skill-tree/**
+    - images/news/**
 
 website:
   site-url: "https://mcnicol-lab.github.io/ecophilab"
@@ -22,6 +23,8 @@ website:
         href: contact.qmd
       - text: About
         href: about.qmd
+      - text: News
+        href: news.qmd
       - text: Quotes
         href: quotes.qmd
         
