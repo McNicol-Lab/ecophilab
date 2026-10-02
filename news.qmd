@@ -1,0 +1,35 @@
+---
+title: "News"
+editor: visual
+toc: false
+---
+
+## Lab news
+
+Updates from ecoϕlab and collaborators.
+
+::: {.news-story}
+### AI Across Scales workshop at Yale
+
+**October 2, 2026**
+
+Last week, ecoϕlab PI Gavin McNicol co-hosted the **AI Across Scales** workshop at Yale with [Sparkle Malone](https://environment.yale.edu/) (Yale School of the Environment), bringing the AI for Natural Methane working group together for four days of talks, collaboration, and community.
+
+The gathering ran September 29–October 2, 2026, with support from the Yale Center for Natural Carbon Capture and continuing support from Spark Climate Solutions. Sessions were held at the Yale Peabody Museum and the Yale Center for Geospatial Solutions, with hybrid links for remote participants. About 18 researchers joined in person and another 25 connected online, spanning Yale, UIC, Harvard, NASA, national labs, and partner universities.
+
+![The Yale Peabody Museum atrium, one of the workshop venues.](images/news/yale-workshop-peabody.jpg){fig-alt="Bright atrium inside the Yale Peabody Museum with wooden skylight beams and suspended fossil skeletons."}
+
+Day 1 opened with a public seminar and reception at the Peabody, followed by science talks and an open forum. Later in the week the group moved into working sessions—sharing tools, comparing approaches, and sketching next steps together.
+
+![Workshop participants in a working session at Yale.](images/news/yale-workshop-seminar.jpg){fig-alt="Researchers seated around a table with laptops during a workshop session at Yale."}
+
+One highlight for visitors was a live demo of [WetLSP Explorer](https://github.com/McNicol-Lab/wetlsp-explorer-web-app/releases/latest), a desktop app from the lab that lets you explore wetland vegetation through the seasons on your own computer.
+
+![Workshop participants outside Yale's Horchow Hall.](images/news/yale-workshop-group.jpg){fig-alt="Small group of workshop participants smiling outdoors in front of a Yale building."}
+
+On the final day, Gavin also received a Yale Impact Award for helping organize the week—a nice note of thanks from the hosts.
+
+![Gavin McNicol receiving the Yale Impact Award.](images/news/yale-workshop-2.jpg){fig-alt="Gavin McNicol and a colleague holding a Yale Impact Award certificate."}
+
+We're grateful to Yale, YCNCC, Spark Climate Solutions, the Peabody Museum, the Center for Geospatial Solutions, and everyone who traveled to New Haven or joined remotely.
+:::
