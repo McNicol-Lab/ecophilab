@@ -73,3 +73,19 @@ footer {
   white-space: pre-wrap;
   color: #0c2220;
 }
+
+
+/* News page */
+.news-story {
+  max-width: 48rem;
+}
+
+.news-story h3 {
+  color: #0c2220;
+  margin-top: 0.5rem;
+}
+
+.news-story img {
+  border-radius: 0.35rem;
+  margin: 1.25rem 0 0.5rem;
+}
