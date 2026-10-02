@@ -11,6 +11,8 @@ website:
     left:
       - text: Home
         href: index.qmd
+      - text: News
+        href: news.qmd
       - text: Projects  
         href: projects.qmd
       - text: Work
@@ -23,8 +25,6 @@ website:
         href: contact.qmd
       - text: About
         href: about.qmd
-      - text: News
-        href: news.qmd
       - text: Quotes
         href: quotes.qmd
         
