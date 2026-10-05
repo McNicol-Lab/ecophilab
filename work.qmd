@@ -43,7 +43,7 @@ Field campaigns, grants, papers, data, and talks. Theme essays are on [Projects]
 
 Grouped with the [Projects](projects.html) themes, newest first. Full list on [Google Scholar](https://scholar.google.com/citations?user=WXHy4H4AAAAJ&hl=en) and [ORCID](https://orcid.org/0000-0002-6655-8045).
 
-### Methane Across Scales
+### AI for Natural Methane
 
 - McNicol, G., Yonker, M., Breiter, J., Pugh, S., & Meyer-Dombard, D. R. (2026). Strong growing season soil methane uptake observed in a restored prairie-savanna. *Frontiers in Environmental Science* 14: 1931059. [doi:10.3389/fenvs.2026.1931059](https://doi.org/10.3389/fenvs.2026.1931059)
 
@@ -57,13 +57,13 @@ Grouped with the [Projects](projects.html) themes, newest first. Full list on [G
 - Yang, W. H., McNicol, G., Teh, Y. A., Estera, K., Wood, T. E., & Silver, W. L. (2017). Evaluating the classical versus an emerging conceptual model of peatland methane dynamics. *Global Biogeochemical Cycles*. [doi:10.1002/2017GB005622](https://doi.org/10.1002/2017GB005622)
 - McNicol, G., Sturtevant, C., Knox, S., Dronova, I., Baldocchi, D. D., & Silver, W. L. (2017). Effects of seasonality, transport pathway, and spatial structure on greenhouse gas fluxes in a restored wetland. *Global Change Biology*. [doi:10.1111/gcb.13580](https://doi.org/10.1111/gcb.13580)
 
-### Rainforest carbon
+### Temperate Rainforest Geoecology
 
 - McNicol, G., et al. (2023). Small, coastal temperate rainforest watersheds dominate dissolved organic carbon transport to the Northeast Pacific Ocean. *Geophysical Research Letters*. [doi:10.1029/2023GL103024](https://doi.org/10.1029/2023GL103024)
 - Lawrence, C. R., et al., including McNicol, G. (2020). An open-source database for the synthesis of soil radiocarbon data: International Soil Radiocarbon Database (ISRaD) version 1.0. *Earth System Science Data*. [doi:10.5194/essd-12-61-2020](https://doi.org/10.5194/essd-12-61-2020)
 - McNicol, G., et al. (2019). Large, climate-sensitive soil carbon stocks mapped with pedology-informed machine learning in the North Pacific coastal temperate rainforest. *Environmental Research Letters*. [doi:10.1088/1748-9326/aaed52](https://doi.org/10.1088/1748-9326/aaed52)
 
-### Sanitation and cities
+### Native and Urban Chicagoland
 
 - Lee, J., Berkelhammer, M., Vincent, A. E. S., Grover, M., Cho, A., Packman, A. I., Kaludi, B., Gonzalez-Meler, M., & McNicol, G. (2026). Quality assessment and control of urban environmental sensors using physical thresholding and machine learning-based probabilities. *Big Earth Data*. [doi:10.1080/20964471.2026.2623720](https://doi.org/10.1080/20964471.2026.2623720)
 - McNicol, G., Jeliazovski, J., François, J. J., Kramer, S., & Ryals, R. (2020). Climate change mitigation potential in sanitation via off-site composting of human waste. *Nature Climate Change* 10: 545–549. [doi:10.1038/s41558-020-0782-4](https://doi.org/10.1038/s41558-020-0782-4)
