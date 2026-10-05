@@ -43,11 +43,9 @@ Field campaigns, grants, papers, data, and talks. Theme essays are on [Projects]
 
 Grouped with the [Projects](projects.html) themes, newest first. Full list on [Google Scholar](https://scholar.google.com/citations?user=WXHy4H4AAAAJ&hl=en) and [ORCID](https://orcid.org/0000-0002-6655-8045).
 
-### In review
+### Methane Across Scales
 
-- McNicol, G., Yonker, M., & Breiter, J. 2022 Nachusa greenhouse-gas flux and microbial survey. *Frontiers in Environmental Science*.
-
-### Wetland methane
+- McNicol, G., Yonker, M., Breiter, J., Pugh, S., & Meyer-Dombard, D. R. (2026). Strong growing season soil methane uptake observed in a restored prairie-savanna. *Frontiers in Environmental Science* 14: 1931059. [doi:10.3389/fenvs.2026.1931059](https://doi.org/10.3389/fenvs.2026.1931059)
 
 - Oh, Y., et al., including McNicol, G. (2026). Revising the magnitude and trends of the global methane soil sink with process-based, machine-learning approaches. *Journal of Geophysical Research: Biogeosciences*. [doi:10.1029/2025JG009668](https://doi.org/10.1029/2025JG009668)
 - Li, F., Zhu, Q., Liu, L., et al., including McNicol, G. (2026). Multi-decadal dynamics of wetland methane emissions revealed by knowledge-guided machine learning. *Global Change Biology*. [doi:10.1111/gcb.70899](https://doi.org/10.1111/gcb.70899)
