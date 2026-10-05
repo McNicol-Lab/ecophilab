@@ -107,6 +107,39 @@ My name is Nicholas Fedchuk, and I am an undergraduate student studying Biologic
 :::
 :::
 
+### Elena Zidadeh-Flores
+
+::: {.grid}
+::: {.g-col-6}
+Photo forthcoming.
+:::
+::: {.g-col-6}
+Bio forthcoming.
+:::
+:::
+
+### Phoebe Smith
+
+::: {.grid}
+::: {.g-col-6}
+Photo forthcoming.
+:::
+::: {.g-col-6}
+Bio forthcoming.
+:::
+:::
+
+### Kevin Myers
+
+::: {.grid}
+::: {.g-col-6}
+Photo forthcoming.
+:::
+::: {.g-col-6}
+Bio forthcoming.
+:::
+:::
+
 ## Alumni
 
 ### Dylan Janowski
