@@ -8,7 +8,7 @@
   },
   {
     "objectID": "projects.html#ai-for-natural-methane",
-    "href": "projects.html#ai-for-natural-methane",
+    "href": "projects.html#methane-fluxes-across-scales",
     "title": "Projects",
     "section": "",
     "text": "Methane concentrations in our planet’s atmosphere have fluctuated widely through geological time and our observations of these changes can tell us a lot about the health of our planet. We live today in a time of an unprecedented rise atmospheric methane, which we know reflect changes in, and can impact, terrestrial ecosystem processes encompassing the lifestyles of soil microbes, plants and animals, and humankind.\nYet we are also living in time of rapidly improving technologies to monitor, interpret, and predict changes in methane. One such change is the rapid growth in artificial intelligence (AI), which allows to automate the extraction of scientific insights from big data and learn about methane sources and sinks more accurately, faster, and at larger scales than ever before. These key advances including the use of knowledge guided machine learning (KGML), which is a flexible and modular workflow approach to AI that enables many ways of combining knowledge from well-established ecological theory with the pattern-recognition prowess of ML.\nWe at the ecoφlab are advancing these KGML projects within AI for Natural Methane - a working group of the The Environmental Data Science Innovation & Impact Lab (ESIIL), which is supported by the National Science Foundation. Our participants include collaborators at U.S. federal agencies including the National Oceanographic and Atmospheric (NOAA) Administration, the Department of Energy (DOE), and the National Aeronautic and Space Administration (NASA), as well with with other academic institutions including Stanford University, Yale University, and the University of Wisconsin at Madison.\nYou can read more about our working group’s participants, projects, and first products at our AI4NM ESIIL website."
@@ -22,10 +22,10 @@
   },
   {
     "objectID": "projects.html#native-and-urban-chicagoland",
-    "href": "projects.html#native-and-urban-chicagoland",
+    "href": "projects.html#chicago-soil-biogeochemistry",
     "title": "Projects",
-    "section": "Native and Urban Chicagoland",
-    "text": "Native and Urban Chicagoland\n\nThere’s a remnant prairie at the Glenview offramp, beyond Lowes and McDonalds; I’ll meet you there.\n\nG. McNicol, April 22, 2022\n\nChicago is the Midwestern heart of the North American continent. All pass through these crossroads, but who can stay? Chicago’s built environment offers convenience, leisurely abundance, and an apparent overcoming of Nature’s chaotic and hostile forms. But our work in today’s Chicagolands focuses on something different; we take time to understand how the tiniest fragments of native soils persist, embedded in this vast expanse of human transformation. What might we lose if we forsake the last of these rare natural environments? In our most ambitious wetland restoration project yet, we pursue the answer to a question that the Chicagoan feat of engineering has almost obviated. Which of these expeirments in land use will prevail? Can what appears to be a flat shallows be in fact a terrain of elevation?"
+    "section": "Chicago Soil Biogeochemistry",
+    "text": "Chicago Soil Biogeochemistry\n\nThere’s a remnant prairie at the Glenview offramp, beyond Lowes and McDonalds; I’ll meet you there.\n\nG. McNicol, April 22, 2022\n\nChicago is the Midwestern heart of the North American continent. All pass through these crossroads, but who can stay? Chicago’s built environment offers convenience, leisurely abundance, and an apparent overcoming of Nature’s chaotic and hostile forms. But our work in today’s Chicagolands focuses on something different; we take time to understand how the tiniest fragments of native soils persist, embedded in this vast expanse of human transformation. What might we lose if we forsake the last of these rare natural environments? In our most ambitious wetland restoration project yet, we pursue the answer to a question that the Chicagoan feat of engineering has almost obviated. Which of these expeirments in land use will prevail? Can what appears to be a flat shallows be in fact a terrain of elevation?"
   },
   {
     "objectID": "contact.html",
