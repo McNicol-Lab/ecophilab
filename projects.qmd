@@ -3,7 +3,7 @@ title: "Projects"
 editor: visual
 ---
 
-## AI for Natural Methane
+## Methane Fluxes Across Scales
 
 ![](images/clipboard-15137423.png)
 
@@ -23,7 +23,7 @@ Temperate rainforests are the ecosystems we forgot and almost lost. Dripping wet
 
 Our Alaskan coastal temperate rainforest research is currently supported by a [US DOE BER Environmental System Science program](https://ess.science.energy.gov/environmental-system-science-projects-awarded-2024/) award (2024-2027) and the ecoφlab's rainforest network was established with past NSF support for a [Coastal Margins Research Coordination Network](https://coastalmarginsnetwork.org/).
 
-## Native and Urban Chicagoland
+## Chicago Soil Biogeochemistry
 
 ![](images/Untitled.jpg)
 
