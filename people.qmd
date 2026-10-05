@@ -119,3 +119,213 @@ My name is Nicholas Fedchuk, and I am an undergraduate student studying Biologic
 My name is Dylan Janowski, and I am a graduate student in the Master of Environmental Management at Yale; I previously studied Earth and Environmental Sciences at UIC as an undergraduate. I have experience in policy, education, lab work, and more. I enjoy using my skills to advance environmentally sound projects and legislation. In my free time, I'm an avid rock climber.
 :::
 :::
+
+### Adrian Villafranca
+
+::: {.grid}
+::: {.g-col-6}
+Photo forthcoming.
+:::
+::: {.g-col-6}
+Bio and current position forthcoming.
+:::
+:::
+
+### Melissa Martinez
+
+::: {.grid}
+::: {.g-col-6}
+Photo forthcoming.
+:::
+::: {.g-col-6}
+Bio and current position forthcoming.
+:::
+:::
+
+### Abdallah Alaidroos
+
+::: {.grid}
+::: {.g-col-6}
+Photo forthcoming.
+:::
+::: {.g-col-6}
+Bio and current position forthcoming.
+:::
+:::
+
+### Ivan (Jia Sheng) Ee
+
+::: {.grid}
+::: {.g-col-6}
+Photo forthcoming.
+:::
+::: {.g-col-6}
+Bio and current position forthcoming.
+:::
+:::
+
+### Emma Rosko
+
+::: {.grid}
+::: {.g-col-6}
+Photo forthcoming.
+:::
+::: {.g-col-6}
+Bio and current position forthcoming.
+:::
+:::
+
+### Mia Williams
+
+::: {.grid}
+::: {.g-col-6}
+Photo forthcoming.
+:::
+::: {.g-col-6}
+Bio and current position forthcoming.
+:::
+:::
+
+### Taylor Finn
+
+::: {.grid}
+::: {.g-col-6}
+Photo forthcoming.
+:::
+::: {.g-col-6}
+Bio and current position forthcoming.
+:::
+:::
+
+### Taylor LeBron
+
+::: {.grid}
+::: {.g-col-6}
+Photo forthcoming.
+:::
+::: {.g-col-6}
+Bio and current position forthcoming.
+:::
+:::
+
+### Isa Sagat
+
+::: {.grid}
+::: {.g-col-6}
+Photo forthcoming.
+:::
+::: {.g-col-6}
+Bio and current position forthcoming.
+:::
+:::
+
+### Damian Velasco
+
+::: {.grid}
+::: {.g-col-6}
+Photo forthcoming.
+:::
+::: {.g-col-6}
+Bio and current position forthcoming.
+:::
+:::
+
+### Sabra Moen
+
+::: {.grid}
+::: {.g-col-6}
+Photo forthcoming.
+:::
+::: {.g-col-6}
+Bio and current position forthcoming.
+:::
+:::
+
+### Allison Wallin
+
+::: {.grid}
+::: {.g-col-6}
+Photo forthcoming.
+:::
+::: {.g-col-6}
+Bio and current position forthcoming.
+:::
+:::
+
+### Desira Miller
+
+::: {.grid}
+::: {.g-col-6}
+Photo forthcoming.
+:::
+::: {.g-col-6}
+Bio and current position forthcoming.
+:::
+:::
+
+### Kayla Hamilton
+
+::: {.grid}
+::: {.g-col-6}
+Photo forthcoming.
+:::
+::: {.g-col-6}
+Bio and current position forthcoming.
+:::
+:::
+
+### Rylee Fee
+
+::: {.grid}
+::: {.g-col-6}
+Photo forthcoming.
+:::
+::: {.g-col-6}
+Bio and current position forthcoming.
+:::
+:::
+
+### Liane Rosario
+
+::: {.grid}
+::: {.g-col-6}
+Photo forthcoming.
+:::
+::: {.g-col-6}
+Bio and current position forthcoming.
+:::
+:::
+
+### Shamya Pugh
+
+::: {.grid}
+::: {.g-col-6}
+Photo forthcoming.
+:::
+::: {.g-col-6}
+Bio and current position forthcoming.
+:::
+:::
+
+### Ian Babelonia
+
+::: {.grid}
+::: {.g-col-6}
+Photo forthcoming.
+:::
+::: {.g-col-6}
+Bio and current position forthcoming.
+:::
+:::
+
+### Mary Wrightsman
+
+::: {.grid}
+::: {.g-col-6}
+Photo forthcoming.
+:::
+::: {.g-col-6}
+Bio and current position forthcoming.
+:::
+:::
+
