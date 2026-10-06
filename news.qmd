@@ -13,13 +13,23 @@ Updates from ecoϕlab and collaborators.
 
 **October 6, 2026**
 
-We're happy to share a new open-access paper from ecoϕlab and collaborators in *Frontiers in Environmental Science*. The work grows out of a 2022 field campaign at Nachusa Grasslands (Dixon, IL), where the team looked at greenhouse gas fluxes and soil microbial community associations in a restored prairie-savanna.
+We're happy to share a new open-access paper from ecoϕlab and collaborators in *Frontiers in Environmental Science*. The work grows out of a 2022 field campaign at Nachusa Grasslands (Dixon, IL), where the team measured soil greenhouse gas fluxes—and their links to soil microbial communities—across restored oak woodland, open tallgrass prairie, and wet prairie.
 
-![Field gear at Nachusa Grasslands during the 2022 campaign.](images/news/nachusa-field-supplies.jpg){fig-alt="Wagon and sampling gear parked in tall prairie grass under a blue sky at Nachusa Grasslands."}
+![Team members collecting field data at Nachusa Grasslands in 2022.](images/news/nachusa-team-field.jpg){fig-alt="Two researchers standing in tall prairie vegetation at the woodland edge, checking handheld devices during fieldwork."}
+
+Across the growing season, soils were consistent carbon dioxide sources, methane sinks, and roughly neutral for nitrous oxide. The headline finding is strong methane uptake—especially in woodland soils—while open prairie was often near neutral. Notably, even wet prairie showed no net methane emissions, which is unusual for saturated soils.
+
+![Figure 2 from the paper: distributions of soil CO₂, CH₄, and N₂O fluxes by cover type.](images/news/nachusa-fig2-fluxes.jpg){fig-alt="Three density plots comparing soil carbon dioxide, methane, and nitrous oxide fluxes across prairie, woodland, and wet prairie cover types."}
+
+Decision-tree models pointed to soil temperature as the main control on carbon dioxide, and to cover type plus soil moisture for methane uptake. Woodland soils were the strongest methane sinks; in prairie, uptake tended to be stronger when soils were drier.
+
+![Restored prairie and scattered oak trees at Nachusa Grasslands.](images/news/nachusa-prairie-site.jpg){fig-alt="Sunny open prairie with scattered trees and a woodland edge under a clear blue sky at Nachusa Grasslands."}
+
+![Figure 5 from the paper: decision tree for soil methane flux.](images/news/nachusa-fig5-ch4-tree.jpg){fig-alt="Decision tree showing woodland cover and soil moisture as the main splits explaining soil methane uptake."}
+
+Inferred microbial communities were dominated by aerobic taxa—decomposers, nitrogen cyclers, and methane oxidizers—consistent with soils that consume methane rather than emit it. Together, the results suggest restored Midwest prairie–savanna ecosystems can act as net greenhouse gas sinks during the growing season, with woodland soils doing especially heavy lifting on methane.
 
 The study was led by Gavin McNicol with coauthors Michael Yonker, Jack Breiter, Shamya Pugh, and D'Arcy R. Meyer-Dombard. Several of the student coauthors are now lab alumni—we're proud to see this chapter of the work in print.
-
-![Field sampling at Nachusa Grasslands.](images/news/nachusa-sampling.jpg){fig-alt="A researcher crouched in prairie grass drawing a gas sample with a syringe from a white chamber."}
 
 You can read the article here: [doi:10.3389/fenvs.2026.1931059](https://doi.org/10.3389/fenvs.2026.1931059).
 
