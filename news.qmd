@@ -9,6 +9,24 @@ toc: false
 Updates from ecoϕlab and collaborators.
 
 ::: {.news-story}
+### New paper from Nachusa Grasslands fieldwork
+
+**October 6, 2026**
+
+We're happy to share a new open-access paper from ecoϕlab and collaborators in *Frontiers in Environmental Science*. The work grows out of a 2022 field campaign at Nachusa Grasslands (Dixon, IL), where the team looked at greenhouse gas fluxes and soil microbial community associations in a restored prairie-savanna.
+
+![Field gear at Nachusa Grasslands during the 2022 campaign.](images/news/nachusa-field-supplies.jpg){fig-alt="Wagon and sampling gear parked in tall prairie grass under a blue sky at Nachusa Grasslands."}
+
+The study was led by Gavin McNicol with coauthors Michael Yonker, Jack Breiter, Shamya Pugh, and D'Arcy R. Meyer-Dombard. Several of the student coauthors are now lab alumni—we're proud to see this chapter of the work in print.
+
+![Field sampling at Nachusa Grasslands.](images/news/nachusa-sampling.jpg){fig-alt="A researcher crouched in prairie grass drawing a gas sample with a syringe from a white chamber."}
+
+You can read the article here: [doi:10.3389/fenvs.2026.1931059](https://doi.org/10.3389/fenvs.2026.1931059).
+
+McNicol, G., Yonker, M., Breiter, J., Pugh, S., and Meyer-Dombard, D. R. (2026). Strong growing season soil methane uptake observed in a restored prairie-savanna. *Front. Environ. Sci.* 14, 1931059. doi: 10.3389/fenvs.2026.1931059
+:::
+
+::: {.news-story}
 ### AI Across Scales workshop at Yale
 
 **October 2, 2026**
