@@ -13,6 +13,8 @@ website:
         href: index.qmd
       - text: News
         href: news.qmd
+      - text: Media
+        href: media.qmd
       - text: Projects  
         href: projects.qmd
       - text: Work
