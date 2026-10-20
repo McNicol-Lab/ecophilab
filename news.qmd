@@ -9,6 +9,35 @@ toc: false
 Updates from ecoϕlab and collaborators.
 
 ::: {.news-story}
+### Chasing methane in the Calumet: a new soil experiment from Indian Ridge Marsh
+
+**October 20, 2026**
+
+Fall fieldwork season is in full swing, and this month ecoϕlab kicked off a new soil methane experiment using soils from Indian Ridge Marsh in Chicago's Calumet region on the city's Southeast Side. The project is led by undergraduate researcher Nick Fedchuk, working with PI Gavin McNicol, as part of his honors research in the lab.
+
+![Nick Fedchuk in the field at Indian Ridge Marsh, ready to sample.](images/news/indian-ridge-nick-field.jpg){fig-alt="Smiling student in sunglasses and blue nitrile gloves giving a thumbs-up while standing in tall goldenrod and grasses at a marsh, carrying a field bag."}
+
+Methane is a powerful greenhouse gas, and wetlands are one of its biggest natural sources. Much of it is made by soil microbes that thrive where there is little oxygen—while other microbes, living where oxygen is available, can eat methane before it ever reaches the air. The Calumet is a fascinating place to study this balance: restored marshes sit alongside landfills and industry, all within a dense urban landscape.
+
+![Indian Ridge Marsh in the Calumet region, where soils for the experiment were collected.](images/news/indian-ridge-marsh.jpg){fig-alt="Wide view of a shallow marsh with open water and floating vegetation, fringed by golden grasses and trees under a blue sky."}
+
+The broader project has two parts. First, a field survey of methane in the air and water around the Calumet to look for local microbial methane sources and possible hot spots. Second—the part now underway—a laboratory experiment with wetland soils collected near those sources.
+
+![Freshly collected marsh soil, ready to be mixed and brought back to the lab.](images/news/indian-ridge-soil-bucket.jpg){fig-alt="Orange five-gallon bucket filled with dark, wet marsh soil sitting among plants."}
+
+Back at UIC, the team mixed the marsh soil and divided it into sealed glass jars. Some jars sit in ordinary air, while others go into a glovebox filled with nitrogen gas to mimic the oxygen-free conditions of waterlogged soil. Over about ten days, the team draws small samples of the air inside each jar and measures how much methane builds up or disappears. Comparing soil from near the surface with soil from deeper down helps show how wetness and oxygen shape whether a wetland breathes methane out or takes it in.
+
+![Soil incubation jars lined up on the lab bench.](images/news/indian-ridge-jars.jpg){fig-alt="Several large glass jars filled with dark soil, sealed with lids, arranged on a laboratory bench."}
+
+![The nitrogen-filled glovebox where the oxygen-free soil jars are kept.](images/news/indian-ridge-glovebox.jpg){fig-alt="Clear acrylic laboratory glovebox with glove ports and sealed jars inside, on a lab bench."}
+
+When the gas measurements wrap up, the team will also look at soil chemistry and at the microbes themselves, tracking genes linked to making methane and consuming it. Together, these pieces will help connect what we see in the air with what is happening underground.
+
+This work sits at the heart of two of our research themes, *Methane Fluxes Across Scales* and *Chicago Soil Biogeochemistry*. It's still early days—samples are being analyzed now—and we look forward to sharing what Nick finds, including at the UIC Honors College Capstone symposium later this fall.
+
+:::
+
+::: {.news-story}
 ### New paper from Nachusa Grasslands fieldwork
 
 **October 6, 2026**
