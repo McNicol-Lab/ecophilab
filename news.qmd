@@ -31,6 +31,8 @@ Back at UIC, the team mixed the marsh soil and divided it into sealed glass jars
 
 ![The nitrogen-filled glovebox where the oxygen-free soil jars are kept.](images/news/indian-ridge-glovebox.jpg){fig-alt="Clear acrylic laboratory glovebox with glove ports and sealed jars inside, on a lab bench."}
 
+![A dry ice slurry keeps samples cold during processing in the lab.](images/news/indian-ridge-dry-ice.jpg){fig-alt="Stainless steel cylinder fogging over with a dry ice slurry, with soil sample jars beside it in a fume hood."}
+
 When the gas measurements wrap up, the team will also look at soil chemistry and at the microbes themselves, tracking genes linked to making methane and consuming it. Together, these pieces will help connect what we see in the air with what is happening underground.
 
 This work sits at the heart of two of our research themes, *Methane Fluxes Across Scales* and *Chicago Soil Biogeochemistry*. It's still early days—samples are being analyzed now—and we look forward to sharing what Nick finds, including at the UIC Honors College Capstone symposium later this fall.
