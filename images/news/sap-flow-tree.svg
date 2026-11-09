@@ -1,0 +1,30 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 760 420" role="img" aria-labelledby="t d" font-family="-apple-system, 'Segoe UI', Roboto, Helvetica, Arial, sans-serif">
+<title id="t">Sap flow in a tree measured with a heat ratio sensor</title>
+<desc id="d">A cartoon tree. Water enters the roots from the soil, moves up the trunk as sap, and leaves through the leaves as water vapor. A sensor on the trunk has a heater needle between two temperature needles; a small heat pulse is carried upward by moving sap, so the upper needle warms more than the lower one.</desc>
+<defs><marker id="arr" viewBox="0 0 10 10" refX="8" refY="5" markerWidth="7" markerHeight="7" orient="auto-start-reverse"><path d="M0,0 L10,5 L0,10 z" fill="#2f6f9f"/></marker></defs>
+<rect width="760" height="420" fill="#f4eed8"/>
+<rect y="340" width="760" height="80" fill="#8a6a3e"/>
+<text x="20" y="405" font-size="15" fill="#f4eed8">Soil water</text>
+<ellipse cx="230" cy="120" rx="150" ry="95" fill="#3f7a4a"/>
+<rect x="210" y="180" width="40" height="165" fill="#6b4a2b"/>
+<path d="M230 340 L170 395 M230 340 L290 395 M230 340 L230 405" stroke="#6b4a2b" stroke-width="8" fill="none"/>
+<path d="M230 395 L230 210" stroke="#2f6f9f" stroke-width="5" marker-end="url(#arr)" fill="none"/>
+<text x="260" y="300" font-size="15" fill="#0c2220">Sap moves up</text>
+<path d="M180 60 Q170 30 185 10 M260 55 Q250 25 265 5" stroke="#2f6f9f" stroke-width="3" fill="none" stroke-dasharray="5 5" marker-end="url(#arr)"/>
+<text x="300" y="40" font-size="15" fill="#0c2220">Water vapor leaves the leaves</text>
+<text x="300" y="60" font-size="15" fill="#0c2220">(transpiration)</text>
+<rect x="250" y="235" width="22" height="40" fill="#c08a34"/>
+<line x1="272" y1="245" x2="470" y2="170" stroke="#0c2220" stroke-width="1.5"/>
+<line x1="272" y1="265" x2="470" y2="330" stroke="#0c2220" stroke-width="1.5"/>
+<rect x="470" y="120" width="270" height="240" rx="10" fill="#fff" stroke="#0c2220" stroke-width="2"/>
+<text x="485" y="145" font-size="15" font-weight="bold" fill="#0c2220">Heat ratio sensor (zoom)</text>
+<rect x="520" y="165" width="150" height="180" fill="#d9c3a0"/>
+<line x1="520" y1="195" x2="670" y2="195" stroke="#0c2220" stroke-width="5"/>
+<line x1="520" y1="255" x2="670" y2="255" stroke="#c0392b" stroke-width="5"/>
+<line x1="520" y1="315" x2="670" y2="315" stroke="#0c2220" stroke-width="5"/>
+<text x="675" y="200" font-size="12" fill="#0c2220">temp. (warmer)</text>
+<text x="675" y="260" font-size="12" fill="#c0392b">heater</text>
+<text x="675" y="320" font-size="12" fill="#0c2220">temp. (cooler)</text>
+<path d="M500 330 L500 180" stroke="#2f6f9f" stroke-width="4" marker-end="url(#arr)"/>
+<text x="485" y="352" font-size="12" fill="#2f6f9f">sap flow carries heat up</text>
+</svg>
