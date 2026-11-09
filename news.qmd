@@ -9,6 +9,66 @@ toc: false
 Updates from ecoϕlab and collaborators.
 
 ::: {.news-story}
+### A November trip to Juneau: tending the US-DGF tower and sap flow sensors
+
+**November 9, 2026**
+
+From November 3 to 8, ecoϕlab PI Gavin McNicol and PhD student Aaron MacDonald traveled to Juneau, Alaska, to maintain sap flow sensors and the **US-DGF (South Douglas Fen)** flux tower. US-DGF is a carbon- and water-monitoring station on a wetland on the southeast coast of Douglas Island, just across the channel from downtown Juneau.
+
+![Gavin McNicol (left) and Aaron MacDonald (right) suited up in high-vis jackets and ready to head out to the field.](images/news/juneau-gavin-aaron.jpg){fig-alt="Selfie of two smiling researchers in bright yellow and navy high-visibility jackets, one in a fur trapper hat giving a peace sign and the other in a black beanie giving a thumbs-up, standing behind a car with its rear hatch open under grey skies with snowy mountains in the distance."}
+
+#### A fen in the rainforest
+
+Southeast Alaska sits in the perhumid (always wet) coastal temperate rainforest of the Northeast Pacific. The fen receives about 1,700 mm (roughly 67 inches) of precipitation in an average year, and between the forested slopes sit open, boggy wetlands that Alaskans call *muskeg*. South Douglas Fen is one of them: a gently sloping, spongy carpet of sphagnum moss and short plants, dotted with small ponds.
+
+![Aaron MacDonald at South Douglas Fen, with the US-DGF tower and snow-capped mountains beyond.](images/news/juneau-us-dgf-site.jpg){fig-alt="Aaron MacDonald in a navy and yellow high-vis jacket and black beanie standing in the muskeg at South Douglas Fen, holding a black case, with the US-DGF tower, solar panel, and snow-capped mountains beyond."}
+
+Wetlands like this store huge amounts of carbon in their waterlogged soils, built up over thousands of years from mosses and plants that never fully decompose. US-DGF was established in 2026 to measure, around the clock, how much carbon dioxide (CO₂) and water vapor move between the fen and the air. The site is registered with [AmeriFlux](https://ameriflux.lbl.gov/sites/siteinfo/US-DGF), a network of hundreds of similar towers across the Americas that share their data so scientists can compare ecosystems from deserts to the Arctic.
+
+#### How the tower "sees" the fen breathe
+
+The station uses a method called **eddy covariance**. Air near the ground never moves smoothly; it tumbles in small swirls, or eddies. An ultrasonic wind sensor measures how fast the air is moving up and down, many times per second, while a gas analyzer measures how much CO₂ and water vapor that same air carries. Pairing those two measurements reveals whether the fen is, on balance, releasing CO₂ to the sky or pulling it in.
+
+![How an eddy covariance tower works. The cartoon shows a tower over a wetland; the same idea applies on the fen in Juneau.](images/news/ec-tower.svg){fig-alt="Cartoon of an instrument tower in a wetland with a sonic anemometer and a gas analyzer near the top, and curved arrows showing swirling eddies of air carrying CO2 up from and down to the ground."}
+
+Scientists summarize the result as *net ecosystem exchange*, or NEE. By convention, a **negative NEE means uptake**: plants are photosynthesizing and the ecosystem is drawing CO₂ out of the atmosphere. A positive NEE means the ecosystem is releasing more CO₂ (through respiration by plants, microbes, and soil) than it absorbs. In a cool, wet place like Southeast Alaska, that balance swings with the seasons, and the long, dark winter is an important part of the story that is still poorly measured.
+
+#### What we went to do
+
+The trip was a maintenance visit rather than a new sampling campaign. In early November, Juneau has only about eight and a half hours of daylight, so the team hiked in at first light to reach the fen by mid-morning.
+
+The main jobs were to look after the eddy-covariance instruments at US-DGF and the sap flow sensors that track how nearby trees move water. They also checked snow-depth sensors at a sub-canopy station—useful where winter snowpack can insulate shallow roots against frost—and worked on a cellular connection so the site can send data.
+
+![The US-DGF station on the muskeg: solar panel, logger enclosure, and the analyzer interface unit and flow module.](images/news/juneau-flux-tower.jpg){fig-alt="The US-DGF station on the muskeg, with an elevated solar panel, logger enclosure, LI-7500 Analyzer Interface Unit and Flow Module in the foreground, and wet fen vegetation around the instruments."}
+
+![Checking the station from a laptop at the open logger enclosure.](images/news/juneau-logger-laptop.jpg){fig-alt="Open logger enclosure with a laptop resting on the open door, showing a desktop window, with wiring and a cellular modem visible inside and muskeg behind the station."}
+
+On site they connected a laptop at the open logger enclosure to check the instruments and data.
+
+There are no new scientific results to share from the visit itself. The aim was to keep the sensors running through the winter months.
+
+#### Trees, water, and yellow-cedar decline
+
+US-DGF is part of our broader research on Alaska's coastal rainforests, including a project funded by the U.S. Department of Energy on **yellow-cedar decline**. Yellow-cedar is a long-lived, culturally and ecologically important tree in Southeast Alaska, and over the past century many stands have died back. A leading explanation is that thinner winter snowpack leaves the trees' shallow roots exposed to damaging freezes. We want to understand how losing these trees changes the way rainforest landscapes exchange water and carbon with the atmosphere.
+
+One way we follow trees' water use is by measuring **sap flow**. Trees pull water from the soil up through their trunks and release it as vapor from their leaves (transpiration). A small sensor inserted into the trunk gives a tiny pulse of heat and then compares temperatures just above and below it. The faster sap is moving up the tree, the more the heat is carried upward. In wet Southeast Alaska, this helps show how much water trees are moving—and how healthy and dying trees might differ.
+
+![How a sap-flow sensor works: moving sap carries a small heat pulse upward.](images/news/sap-flow-tree.svg){fig-alt="Cartoon tree with arrows showing water moving from the soil up the trunk to the leaves and escaping as water vapor, and a zoomed sensor with a heater needle between two temperature needles."}
+
+Maintaining those sap flow sensors was one of the reasons for the November visit. The team also checked other field equipment, including a trail camera.
+
+![A trail camera with its door open for a check, with a dead conifer standing behind it.](images/news/juneau-trail-camera.jpg){fig-alt="Trail camera with its front door open, with a dead conifer tree standing behind it."}
+
+And, as always in Southeast Alaska, the shoreline offered its own rewards.
+
+![A purple-red sea star on a pebble beach.](images/news/juneau-starfish.jpg){fig-alt="Purple-red starfish lying on a pebble beach."}
+
+This work is part of our *Temperate Rainforest Geoecology* research theme. You can follow the site on its [AmeriFlux page for US-DGF](https://ameriflux.lbl.gov/sites/siteinfo/US-DGF).
+
+*We acknowledge the Tlingit people as the traditional stewards of Deishú Áakʼw (Douglas Island) and the broader Lingít Aaní.*
+:::
+
+::: {.news-story}
 ### Chasing methane in the Calumet: a new soil experiment from Indian Ridge Marsh
 
 **October 20, 2026**
